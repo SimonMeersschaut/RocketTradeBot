@@ -1,0 +1,905 @@
+[
+  {
+    "id": "5vM67gb",
+    "has": [
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Vortex (Very Rare)", "quantity": 1, "paint": "Crimson" },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Vortex (Very Rare)", "quantity": 1, "paint": "Pink" },
+      { "name": "Vortex (Very Rare)", "quantity": 1, "paint": "Lime" },
+      { "name": "Vortex (Very Rare)", "quantity": 1, "paint": "Orange" },
+      { "name": "Vortex (Very Rare)", "quantity": 1, "paint": "Cobalt" },
+      { "name": "Vortex (Very Rare)", "quantity": 1, "paint": "Grey" },
+      { "name": "Tidal Stream", "quantity": 1, "paint": null }
+    ],
+    "wants": [
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Credits", "quantity": "60", "paint": "Crimson" },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Credits", "quantity": "60", "paint": "Pink" },
+      { "name": "Credits", "quantity": "60", "paint": "Lime" },
+      { "name": "Credits", "quantity": "60", "paint": "Orange" },
+      { "name": "Credits", "quantity": "60", "paint": "Cobalt" },
+      { "name": "Credits", "quantity": "60", "paint": "Grey" },
+      { "name": "Credits", "quantity": "1300", "paint": null }
+    ]
+  },
+  {
+    "id": "MNYMkZY",
+    "has": [{ "name": "Credits", "quantity": "500", "paint": null }],
+    "wants": [{ "name": "Mainframe", "quantity": 1, "paint": null }]
+  },
+  {
+    "id": "eDY9edo",
+    "has": [
+      { "name": "Credits", "quantity": "2210", "paint": null },
+      { "name": "Credits", "quantity": "1310", "paint": null },
+      { "name": "Credits", "quantity": "3200", "paint": null },
+      { "name": "Credits", "quantity": "1700", "paint": null },
+      { "name": "Credits", "quantity": "2210", "paint": null },
+      { "name": "Credits", "quantity": "3010", "paint": null },
+      { "name": "Credits", "quantity": "1410", "paint": null },
+      { "name": "Credits", "quantity": "1010", "paint": null },
+      { "name": "Credits", "quantity": "1300", "paint": null },
+      { "name": "Credits", "quantity": "1300", "paint": null }
+    ],
+    "wants": [
+      { "name": "Dominus (Import)", "quantity": 1, "paint": "Lime" },
+      { "name": "Dominus (Import)", "quantity": 1, "paint": "Cobalt" },
+      { "name": "Dominus (Import)", "quantity": 1, "paint": "Crimson" },
+      { "name": "Dominus (Import)", "quantity": 1, "paint": "Purple" },
+      { "name": "Dominus (Import)", "quantity": 1, "paint": "Pink" },
+      { "name": "Dominus (Import)", "quantity": 1, "paint": "Sky Blue" },
+      { "name": "Dominus (Import)", "quantity": 1, "paint": "Saffron" },
+      { "name": "Dominus (Import)", "quantity": 1, "paint": "Burnt Sienna" },
+      { "name": "Dominus (Import)", "quantity": 1, "paint": "Grey" },
+      { "name": "Dominus (Import)", "quantity": 1, "paint": "Orange" }
+    ]
+  },
+  {
+    "id": "pD2WVmz",
+    "has": [
+      { "name": "Tunica (Uncommon)", "quantity": 1, "paint": null },
+      { "name": "Draco", "quantity": 1, "paint": null },
+      { "name": "Draco", "quantity": 1, "paint": null },
+      { "name": "Zomba", "quantity": 1, "paint": null },
+      { "name": "Reaper", "quantity": 1, "paint": null },
+      { "name": "Sparkles (Uncommon)", "quantity": 1, "paint": null },
+      { "name": "Apex", "quantity": 1, "paint": null },
+      { "name": "Blazer", "quantity": 1, "paint": null },
+      { "name": "Friction", "quantity": 1, "paint": null },
+      { "name": "Luminous", "quantity": 1, "paint": null }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "80", "paint": null },
+      { "name": "Credits", "quantity": "120", "paint": null },
+      { "name": "Credits", "quantity": "100", "paint": null },
+      { "name": "Credits", "quantity": "100", "paint": null },
+      { "name": "Credits", "quantity": "60", "paint": null },
+      { "name": "Credits", "quantity": "120", "paint": null },
+      { "name": "Credits", "quantity": "150", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null }
+    ]
+  },
+  {
+    "id": "pD237vj",
+    "has": [
+      { "name": "Boujee (Global)", "quantity": 1, "paint": "Black" },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Streak Wave (Global)", "quantity": 1, "paint": "Black" },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Reaper", "quantity": 1, "paint": "Titanium White" }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "50", "paint": "Black" },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Credits", "quantity": "60", "paint": "Black" },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Credits", "quantity": "1490", "paint": "Titanium White" }
+    ]
+  },
+  {
+    "id": "BG5WYbp",
+    "has": [
+      { "name": "Credits", "quantity": "10", "paint": "Crimson" },
+      { "name": "Credits", "quantity": "10", "paint": "Pink" },
+      { "name": "Credits", "quantity": "10", "paint": "Cobalt" },
+      { "name": "Credits", "quantity": "10", "paint": "Sky Blue" },
+      { "name": "Credits", "quantity": "10", "paint": "Burnt Sienna" },
+      { "name": "Credits", "quantity": "10", "paint": "Saffron" },
+      { "name": "Credits", "quantity": "10", "paint": "Lime" },
+      { "name": "Credits", "quantity": "10", "paint": "Purple" }
+    ],
+    "wants": [
+      { "name": "Nissan Silvia", "quantity": 1, "paint": "Crimson" },
+      { "name": "Nissan Silvia", "quantity": 1, "paint": "Pink" },
+      { "name": "Nissan Silvia", "quantity": 1, "paint": "Cobalt" },
+      { "name": "Nissan Silvia", "quantity": 1, "paint": "Sky Blue" },
+      { "name": "Nissan Silvia", "quantity": 1, "paint": "Burnt Sienna" },
+      { "name": "Nissan Silvia", "quantity": 1, "paint": "Saffron" },
+      { "name": "Nissan Silvia", "quantity": 1, "paint": "Lime" },
+      { "name": "Nissan Silvia", "quantity": 1, "paint": "Purple" }
+    ]
+  },
+  {
+    "id": "6e26pDd",
+    "has": [
+      { "name": "Credits", "quantity": "70", "paint": "Crimson" },
+      { "name": "Credits", "quantity": "70", "paint": "Sky Blue" },
+      { "name": "Credits", "quantity": "70", "paint": "Purple" },
+      { "name": "Credits", "quantity": "70", "paint": "Pink" },
+      { "name": "Credits", "quantity": "70", "paint": "Lime" },
+      { "name": "Credits", "quantity": "70", "paint": "Orange" },
+      { "name": "Credits", "quantity": "70", "paint": "Saffron" },
+      { "name": "Credits", "quantity": "70", "paint": "Forest Green" },
+      { "name": "Credits", "quantity": "70", "paint": "Grey" },
+      { "name": "Credits", "quantity": "70", "paint": "Burnt Sienna" }
+    ],
+    "wants": [
+      { "name": "Voltaic", "quantity": 1, "paint": "Crimson" },
+      { "name": "Voltaic", "quantity": 1, "paint": "Sky Blue" },
+      { "name": "Voltaic", "quantity": 1, "paint": "Purple" },
+      { "name": "Voltaic", "quantity": 1, "paint": "Pink" },
+      { "name": "Voltaic", "quantity": 1, "paint": "Lime" },
+      { "name": "Voltaic", "quantity": 1, "paint": "Orange" },
+      { "name": "Voltaic", "quantity": 1, "paint": "Saffron" },
+      { "name": "Voltaic", "quantity": 1, "paint": "Forest Green" },
+      { "name": "Voltaic", "quantity": 1, "paint": "Grey" },
+      { "name": "Voltaic", "quantity": 1, "paint": "Burnt Sienna" }
+    ]
+  },
+  {
+    "id": "7gxkbPB",
+    "has": [
+      { "name": "Zeus (Fennec)", "quantity": 1, "paint": null },
+      { "name": "Slimline (Fennec)", "quantity": 1, "paint": null },
+      { "name": "Huntress (Dominus)", "quantity": 1, "paint": null },
+      { "name": "Edge Burst (Fennec)", "quantity": 1, "paint": null },
+      { "name": "Tempest", "quantity": 1, "paint": null },
+      { "name": "Stallion", "quantity": 1, "paint": null },
+      { "name": "Veloce (Uncommon)", "quantity": 1, "paint": null },
+      { "name": "Alchemist (Uncommon)", "quantity": 1, "paint": null },
+      { "name": "Huntress (Fennec)", "quantity": 1, "paint": null },
+      { "name": "Ombre (Fennec)", "quantity": 1, "paint": null }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "70", "paint": null },
+      { "name": "Credits", "quantity": "70", "paint": null },
+      { "name": "Credits", "quantity": "100", "paint": null },
+      { "name": "Credits", "quantity": "80", "paint": null },
+      { "name": "Credits", "quantity": "20", "paint": null },
+      { "name": "Credits", "quantity": "20", "paint": null },
+      { "name": "Credits", "quantity": "30", "paint": null },
+      { "name": "Credits", "quantity": "30", "paint": null },
+      { "name": "Credits", "quantity": "150", "paint": null },
+      { "name": "Credits", "quantity": "200", "paint": null }
+    ]
+  },
+  {
+    "id": "yXvLKNn",
+    "has": [
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Tickled Tomato", "quantity": 1, "paint": null },
+      { "name": "Maracas", "quantity": 1, "paint": null },
+      { "name": "Credits", "quantity": "10", "paint": null },
+      { "name": "Credits", "quantity": "110", "paint": null },
+      { "name": "Macho Man", "quantity": 1, "paint": null },
+      { "name": "Birthday Bash", "quantity": 1, "paint": null },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Battle-Cars Anniversary", "quantity": 1, "paint": null },
+      { "name": "Credits", "quantity": "10", "paint": null }
+    ],
+    "wants": [
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "GG the Clown", "quantity": 1, "paint": null },
+      { "name": "Miyagi-Do", "quantity": 1, "paint": null },
+      { "name": "Credits", "quantity": "50", "paint": null },
+      { "name": "Credits", "quantity": "130", "paint": null },
+      { "name": "Placeholder", "quantity": 1, "paint": null },
+      { "name": "Credits", "quantity": "130", "paint": null },
+      { "name": "Santa", "quantity": 1, "paint": null }
+    ]
+  },
+  {
+    "id": "VO9wqGP",
+    "has": [
+      { "name": "Faboo", "quantity": 1, "paint": null },
+      { "name": "Hornet", "quantity": 1, "paint": null },
+      { "name": "Blueprint", "quantity": 1, "paint": null },
+      { "name": "Blueprint II", "quantity": 1, "paint": null },
+      { "name": "Valorous", "quantity": 1, "paint": null },
+      { "name": "Venom Ride", "quantity": 1, "paint": null },
+      { "name": "Ouchie", "quantity": 1, "paint": null },
+      { "name": "Gamer Pad", "quantity": 1, "paint": null },
+      { "name": "NeOctane", "quantity": 1, "paint": null },
+      { "name": "Pigeon", "quantity": 1, "paint": null }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "20", "paint": null },
+      { "name": "Credits", "quantity": "20", "paint": null },
+      { "name": "Credits", "quantity": "20", "paint": null },
+      { "name": "Credits", "quantity": "20", "paint": null },
+      { "name": "Credits", "quantity": "20", "paint": null },
+      { "name": "Credits", "quantity": "20", "paint": null },
+      { "name": "Credits", "quantity": "20", "paint": null },
+      { "name": "Credits", "quantity": "20", "paint": null },
+      { "name": "Credits", "quantity": "20", "paint": null },
+      { "name": "Credits", "quantity": "20", "paint": null }
+    ]
+  },
+  {
+    "id": "JM3V6Vz",
+    "has": [
+      { "name": "Hot Rocks", "quantity": 1, "paint": null },
+      { "name": "Neo-Thermal", "quantity": 1, "paint": "Forest Green" },
+      { "name": "Sun Ray", "quantity": 1, "paint": null },
+      { "name": "Raijin", "quantity": 1, "paint": null },
+      { "name": "Tsunami Beam", "quantity": 1, "paint": null },
+      { "name": "Vortex (Uncommon)", "quantity": 1, "paint": "Black" },
+      { "name": "Heiwa (Breakout)", "quantity": 1, "paint": "Crimson" },
+      { "name": "Golden Trophy '23", "quantity": 1, "paint": null },
+      { "name": "League Shield", "quantity": 1, "paint": null }
+    ],
+    "wants": [
+      { "name": "Credits offer", "quantity": 1, "paint": null },
+      { "name": "Credits offer", "quantity": 1, "paint": null },
+      { "name": "Credits offer", "quantity": 1, "paint": null },
+      { "name": "Credits offer", "quantity": 1, "paint": null },
+      { "name": "Credits offer", "quantity": 1, "paint": null },
+      { "name": "Credits offer", "quantity": 1, "paint": null },
+      { "name": "Credits offer", "quantity": 1, "paint": null },
+      { "name": "Credits offer", "quantity": 1, "paint": null },
+      { "name": "Credits offer", "quantity": 1, "paint": null }
+    ]
+  },
+  {
+    "id": "bbjW8P6",
+    "has": [{ "name": "Big Splash", "quantity": 1, "paint": null }],
+    "wants": [{ "name": "Credits", "quantity": "100", "paint": null }]
+  },
+  {
+    "id": "2rVYom3",
+    "has": [
+      { "name": "Solar Flare", "quantity": 1, "paint": null },
+      { "name": "Voxel", "quantity": 1, "paint": null },
+      { "name": "Brimstone", "quantity": 1, "paint": null },
+      { "name": "Dueling Dragons", "quantity": 1, "paint": null },
+      { "name": "Spectre", "quantity": 1, "paint": null },
+      { "name": "Wet Paint", "quantity": 1, "paint": null },
+      { "name": "Dissolver", "quantity": 1, "paint": null },
+      { "name": "Hellfire", "quantity": 1, "paint": null },
+      { "name": "Sub-Zero", "quantity": 1, "paint": null },
+      { "name": "Labyrinth", "quantity": 1, "paint": null }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "100", "paint": null },
+      { "name": "Credits", "quantity": "100", "paint": null },
+      { "name": "Credits", "quantity": "150", "paint": null },
+      { "name": "Credits", "quantity": "600", "paint": null },
+      { "name": "Credits", "quantity": "100", "paint": null },
+      { "name": "Credits", "quantity": "100", "paint": null },
+      { "name": "Credits", "quantity": "450", "paint": null },
+      { "name": "Credits", "quantity": "150", "paint": null },
+      { "name": "Credits", "quantity": "130", "paint": null },
+      { "name": "Credits", "quantity": "100", "paint": null }
+    ]
+  },
+  {
+    "id": "Z2Zoo8j",
+    "has": [
+      { "name": "Credits", "quantity": "10", "paint": "Crimson" },
+      { "name": "Credits", "quantity": "10", "paint": "Pink" },
+      { "name": "Credits", "quantity": "10", "paint": "Cobalt" },
+      { "name": "Credits", "quantity": "10", "paint": "Sky Blue" },
+      { "name": "Credits", "quantity": "10", "paint": "Burnt Sienna" },
+      { "name": "Credits", "quantity": "10", "paint": "Saffron" },
+      { "name": "Credits", "quantity": "10", "paint": "Lime" },
+      { "name": "Credits", "quantity": "10", "paint": "Forest Green" },
+      { "name": "Credits", "quantity": "10", "paint": "Orange" },
+      { "name": "Credits", "quantity": "10", "paint": "Purple" }
+    ],
+    "wants": [
+      { "name": "Nissan Silvia RLE", "quantity": 1, "paint": "Crimson" },
+      { "name": "Nissan Silvia RLE", "quantity": 1, "paint": "Pink" },
+      { "name": "Nissan Silvia RLE", "quantity": 1, "paint": "Cobalt" },
+      { "name": "Nissan Silvia RLE", "quantity": 1, "paint": "Sky Blue" },
+      { "name": "Nissan Silvia RLE", "quantity": 1, "paint": "Burnt Sienna" },
+      { "name": "Nissan Silvia RLE", "quantity": 1, "paint": "Saffron" },
+      { "name": "Nissan Silvia RLE", "quantity": 1, "paint": "Lime" },
+      { "name": "Nissan Silvia RLE", "quantity": 1, "paint": "Forest Green" },
+      { "name": "Nissan Silvia RLE", "quantity": 1, "paint": "Orange" },
+      { "name": "Nissan Silvia RLE", "quantity": 1, "paint": "Purple" }
+    ]
+  },
+  {
+    "id": "X5y28Ym",
+    "has": [{ "name": "Smoke Run", "quantity": 1, "paint": "Grey" }],
+    "wants": [{ "name": "Credits", "quantity": "100", "paint": null }]
+  },
+  {
+    "id": "omMknar",
+    "has": [
+      { "name": "Credits", "quantity": "100", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "70", "paint": "Crimson" },
+      { "name": "Credits", "quantity": "70", "paint": "Sky Blue" },
+      { "name": "Credits", "quantity": "70", "paint": "Purple" },
+      { "name": "Credits", "quantity": "70", "paint": "Pink" },
+      { "name": "Credits", "quantity": "70", "paint": "Lime" },
+      { "name": "Credits", "quantity": "70", "paint": "Orange" },
+      { "name": "Credits", "quantity": "70", "paint": "Cobalt" },
+      { "name": "Credits", "quantity": "70", "paint": "Saffron" },
+      { "name": "Credits", "quantity": "70", "paint": "Forest Green" }
+    ],
+    "wants": [
+      { "name": "Discotheque", "quantity": 1, "paint": "Titanium White" },
+      { "name": "Discotheque", "quantity": 1, "paint": "Crimson" },
+      { "name": "Discotheque", "quantity": 1, "paint": "Sky Blue" },
+      { "name": "Discotheque", "quantity": 1, "paint": "Purple" },
+      { "name": "Discotheque", "quantity": 1, "paint": "Pink" },
+      { "name": "Discotheque", "quantity": 1, "paint": "Lime" },
+      { "name": "Discotheque", "quantity": 1, "paint": "Orange" },
+      { "name": "Discotheque", "quantity": 1, "paint": "Cobalt" },
+      { "name": "Discotheque", "quantity": 1, "paint": "Saffron" },
+      { "name": "Discotheque", "quantity": 1, "paint": "Forest Green" }
+    ]
+  },
+  {
+    "id": "AO6PYRn",
+    "has": [
+      { "name": "Credits", "quantity": "30", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "660", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "1060", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "100", "paint": "Black" },
+      { "name": "Credits", "quantity": "410", "paint": "Black" },
+      {
+        "name": "Volkswagen Golf GTI",
+        "quantity": 1,
+        "paint": "Titanium White"
+      },
+      { "name": "Overgrowth", "quantity": 1, "paint": "Saffron" },
+      { "name": "Overgrowth", "quantity": 1, "paint": "Lime" },
+      { "name": "Overgrowth", "quantity": 1, "paint": "Grey" },
+      { "name": "Placeholder", "quantity": 1, "paint": null }
+    ],
+    "wants": [
+      {
+        "name": "Volkswagen Golf GTI RLE",
+        "quantity": 1,
+        "paint": "Titanium White"
+      },
+      { "name": "Reaper Blueprint", "quantity": 1, "paint": "Titanium White" },
+      { "name": "Reaper", "quantity": 1, "paint": "Titanium White" },
+      { "name": "Reaper Blueprint", "quantity": 1, "paint": "Black" },
+      { "name": "Reaper", "quantity": 1, "paint": "Black" },
+      { "name": "Credits", "quantity": "140", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "70", "paint": "Saffron" },
+      { "name": "Credits", "quantity": "70", "paint": "Lime" },
+      { "name": "Credits", "quantity": "140", "paint": "Grey" },
+      { "name": "Placeholder", "quantity": 1, "paint": null }
+    ]
+  },
+  {
+    "id": "3va79QJ",
+    "has": [
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null }
+    ],
+    "wants": [
+      { "name": "ARA-51", "quantity": 1, "paint": null },
+      { "name": "Balla-Carr\u00e0", "quantity": 1, "paint": null },
+      { "name": "Centro", "quantity": 1, "paint": null },
+      { "name": "Chrono", "quantity": 1, "paint": null },
+      { "name": "Clockwork", "quantity": 1, "paint": null },
+      { "name": "Creeper", "quantity": 1, "paint": null },
+      { "name": "Cutter: Inverted", "quantity": 1, "paint": null },
+      { "name": "Dire Wolf", "quantity": 1, "paint": null },
+      { "name": "Discotheque", "quantity": 1, "paint": null },
+      { "name": "Draco", "quantity": 1, "paint": null }
+    ]
+  },
+  {
+    "id": "AO6WAAg",
+    "has": [
+      { "name": "Yeehaw", "quantity": 1, "paint": "Purple" },
+      { "name": "Yeehaw", "quantity": 1, "paint": "Lime" },
+      { "name": "Spatial Rift", "quantity": 1, "paint": "Painted set" },
+      { "name": "Savage Spray", "quantity": 1, "paint": "Painted set" },
+      { "name": "Riser", "quantity": 1, "paint": "Painted set" },
+      { "name": "Wall Breaker II", "quantity": 1, "paint": "Orange" },
+      { "name": "Wall Breaker II", "quantity": 1, "paint": "Saffron" },
+      { "name": "Wall Breaker II", "quantity": 1, "paint": "Sky Blue" },
+      { "name": "Smokeshow", "quantity": 1, "paint": "Titanium White" },
+      { "name": "Smokeshow", "quantity": 1, "paint": "Black" }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "50", "paint": null },
+      { "name": "Credits", "quantity": "50", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "20", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null },
+      { "name": "Credits", "quantity": "100", "paint": null },
+      { "name": "Credits", "quantity": "120", "paint": null }
+    ]
+  },
+  {
+    "id": "87RqwXY",
+    "has": [
+      { "name": "Non-Crate Very Rare offer", "quantity": 1, "paint": null },
+      { "name": "Non-Crate Very Rare offer", "quantity": "24", "paint": null },
+      { "name": "Non-Crate Very Rare offer", "quantity": "48", "paint": null },
+      { "name": "Non-Crate Import Offer", "quantity": 1, "paint": null },
+      { "name": "Non-Crate Import Offer", "quantity": "24", "paint": null },
+      { "name": "Exotic offer", "quantity": 1, "paint": null },
+      { "name": "Exotic offer", "quantity": "24", "paint": null },
+      { "name": "Non-Crate Import Offer", "quantity": "48", "paint": null },
+      { "name": "Non-Crate Rare offer", "quantity": "10", "paint": null }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "25", "paint": null },
+      { "name": "Credits", "quantity": "600", "paint": null },
+      { "name": "Credits", "quantity": "1200", "paint": null },
+      { "name": "Credits", "quantity": "25", "paint": null },
+      { "name": "Credits", "quantity": "600", "paint": null },
+      { "name": "Credits", "quantity": "100", "paint": null },
+      { "name": "Credits", "quantity": "2400", "paint": null },
+      { "name": "Credits", "quantity": "1200", "paint": null },
+      { "name": "Credits", "quantity": "100", "paint": null }
+    ]
+  },
+  {
+    "id": "2rVODX3",
+    "has": [
+      { "name": "Phoenix Fire", "quantity": 1, "paint": "Titanium White" },
+      { "name": "Supernova", "quantity": 1, "paint": "Painted set" },
+      { "name": "Timeline", "quantity": 1, "paint": "Titanium White" },
+      { "name": "Timeline", "quantity": 1, "paint": "Black" },
+      { "name": "Timeline", "quantity": 1, "paint": "Painted set" },
+      { "name": "Star Princess", "quantity": 1, "paint": "Black" },
+      { "name": "Star Princess", "quantity": 1, "paint": "Titanium White" },
+      { "name": "Star Princess", "quantity": 1, "paint": "Painted set" },
+      { "name": "Pyrotechnix", "quantity": 1, "paint": "Titanium White" },
+      { "name": "Toon Sketch", "quantity": 1, "paint": "Crimson" }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "70", "paint": null },
+      { "name": "Credits", "quantity": "30", "paint": null },
+      { "name": "Credits", "quantity": "50", "paint": null },
+      { "name": "Credits", "quantity": "50", "paint": null },
+      { "name": "Credits", "quantity": "30", "paint": null },
+      { "name": "Credits", "quantity": "50", "paint": null },
+      { "name": "Credits", "quantity": "50", "paint": null },
+      { "name": "Credits", "quantity": "20", "paint": null },
+      { "name": "Credits", "quantity": "30", "paint": null },
+      { "name": "Credits", "quantity": "240", "paint": null }
+    ]
+  },
+  {
+    "id": "aXPvp5p",
+    "has": [{ "name": "Golden Trophy '23", "quantity": "5", "paint": null }],
+    "wants": [{ "name": "Credits", "quantity": "450", "paint": null }]
+  },
+  {
+    "id": "6ebv7Gm",
+    "has": [
+      { "name": "Credits", "quantity": "10", "paint": null },
+      { "name": "Credits", "quantity": "10", "paint": null },
+      { "name": "Credits", "quantity": "10", "paint": null },
+      { "name": "Credits", "quantity": "10", "paint": null },
+      { "name": "Credits", "quantity": "10", "paint": null },
+      { "name": "Credits", "quantity": "10", "paint": null },
+      { "name": "Credits", "quantity": "10", "paint": null },
+      { "name": "Credits", "quantity": "10", "paint": null },
+      { "name": "Credits", "quantity": "10", "paint": null },
+      { "name": "Credits", "quantity": "10", "paint": null }
+    ],
+    "wants": [
+      { "name": "Zigzag", "quantity": 1, "paint": null },
+      { "name": "Luminous", "quantity": 1, "paint": null },
+      { "name": "Lightspeed", "quantity": 1, "paint": null },
+      { "name": "Lightning", "quantity": 1, "paint": null },
+      { "name": "Friction", "quantity": 1, "paint": null },
+      { "name": "Discotheque", "quantity": 1, "paint": null },
+      { "name": "EKG-OMG", "quantity": 1, "paint": null },
+      { "name": "Blazer", "quantity": 1, "paint": null },
+      { "name": "Binary", "quantity": 1, "paint": null },
+      { "name": "Ethereal", "quantity": 1, "paint": null }
+    ]
+  },
+  {
+    "id": "omMvOzW",
+    "has": [
+      { "name": "Y.O.U.", "quantity": 1, "paint": "Purple" },
+      { "name": "Y.O.U.", "quantity": 1, "paint": "Crimson" },
+      { "name": "Y.O.U.", "quantity": 1, "paint": "Saffron" }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "30", "paint": null },
+      { "name": "Credits", "quantity": "30", "paint": null },
+      { "name": "Credits", "quantity": "30", "paint": null }
+    ]
+  },
+  {
+    "id": "LnbQxbQ",
+    "has": [
+      { "name": "Fennec", "quantity": 1, "paint": null },
+      { "name": "Harbinger GXT", "quantity": 1, "paint": "Titanium White" },
+      {
+        "name": "Volkswagen Golf GTI",
+        "quantity": 1,
+        "paint": "Titanium White"
+      },
+      {
+        "name": "Volkswagen Golf GTI RLE",
+        "quantity": 1,
+        "paint": "Titanium White"
+      },
+      { "name": "Ombre (Fennec)", "quantity": 1, "paint": "Titanium White" },
+      { "name": "Labyrinth", "quantity": 1, "paint": null },
+      {
+        "name": "Estrella: Prismatic",
+        "quantity": 1,
+        "paint": "Titanium White"
+      },
+      { "name": "Demonio (Octane)", "quantity": 1, "paint": "Titanium White" },
+      { "name": "Maelstrom", "quantity": 1, "paint": "Black" },
+      { "name": "Cosmosis", "quantity": 1, "paint": "Titanium White" }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "400", "paint": null },
+      { "name": "Credits", "quantity": "30", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "100", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "100", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "1000", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "100", "paint": null },
+      { "name": "Credits", "quantity": "200", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "250", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "500", "paint": "Black" },
+      { "name": "Credits", "quantity": "200", "paint": "Titanium White" }
+    ]
+  },
+  {
+    "id": "x3K72g0",
+    "has": [
+      { "name": "Credits", "quantity": "550", "paint": null },
+      { "name": "Credits", "quantity": "1200", "paint": null }
+    ],
+    "wants": [
+      { "name": "Dieci (Uncommon)", "quantity": 1, "paint": "Forest Green" },
+      { "name": "Dieci (Uncommon)", "quantity": 1, "paint": "Purple" }
+    ]
+  },
+  {
+    "id": "pD2ZmmO",
+    "has": [
+      { "name": "Lotus Bloom", "quantity": 1, "paint": "Black" },
+      { "name": "Lotus Bloom", "quantity": 1, "paint": "Sky Blue" },
+      { "name": "Lotus Bloom", "quantity": 1, "paint": "Purple" },
+      { "name": "Lotus Bloom", "quantity": 1, "paint": "Cobalt" },
+      { "name": "Lotus Bloom", "quantity": 1, "paint": "Crimson" },
+      { "name": "Lotus Bloom", "quantity": 1, "paint": "Forest Green" },
+      { "name": "Lotus Bloom", "quantity": 1, "paint": "Grey" },
+      { "name": "Lotus Bloom", "quantity": 1, "paint": "Orange" },
+      { "name": "Lotus Bloom", "quantity": 1, "paint": "Saffron" },
+      { "name": "Lotus Bloom", "quantity": 1, "paint": "Titanium White" }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "100", "paint": "Black" },
+      { "name": "Credits", "quantity": "60", "paint": "Sky Blue" },
+      { "name": "Credits", "quantity": "40", "paint": "Purple" },
+      { "name": "Credits", "quantity": "40", "paint": "Cobalt" },
+      { "name": "Credits", "quantity": "40", "paint": "Crimson" },
+      { "name": "Credits", "quantity": "30", "paint": "Forest Green" },
+      { "name": "Credits", "quantity": "30", "paint": "Grey" },
+      { "name": "Credits", "quantity": "30", "paint": "Orange" },
+      { "name": "Credits", "quantity": "100", "paint": "Saffron" },
+      { "name": "Credits", "quantity": "250", "paint": "Titanium White" }
+    ]
+  },
+  {
+    "id": "jvYazZ5",
+    "has": [
+      { "name": "Credits", "quantity": "150", "paint": "Painted set" },
+      { "name": "Credits", "quantity": "620", "paint": "Black" },
+      { "name": "Ombre (Fennec)", "quantity": 1, "paint": "Lime" },
+      { "name": "Ombre (Fennec)", "quantity": 1, "paint": "Cobalt" },
+      { "name": "Lightspeed", "quantity": 1, "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "20", "paint": "Painted set" },
+      { "name": "Credits", "quantity": "420", "paint": "Black" },
+      { "name": "Credits", "quantity": "900", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "600", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "400", "paint": "Black" }
+    ],
+    "wants": [
+      { "name": "Ombre (Fennec)", "quantity": 1, "paint": "Painted set" },
+      { "name": "Ombre (Fennec)", "quantity": 1, "paint": "Black" },
+      { "name": "Credits", "quantity": "500", "paint": "Lime" },
+      { "name": "Credits", "quantity": "700", "paint": "Cobalt" },
+      { "name": "Credits", "quantity": "550", "paint": "Titanium White" },
+      {
+        "name": "Ombre (Fennec) Blueprint",
+        "quantity": 1,
+        "paint": "Painted set"
+      },
+      { "name": "Ombre (Fennec) Blueprint", "quantity": 1, "paint": "Black" },
+      { "name": "Ombre (Fennec)", "quantity": 1, "paint": "Titanium White" },
+      {
+        "name": "Ombre (Fennec) Blueprint",
+        "quantity": 1,
+        "paint": "Titanium White"
+      },
+      { "name": "Lightspeed", "quantity": 1, "paint": "Black" }
+    ]
+  },
+  {
+    "id": "BG5DvoZ",
+    "has": [
+      { "name": "Credits", "quantity": "100", "paint": null },
+      { "name": "Credits", "quantity": "50", "paint": null },
+      { "name": "Credits", "quantity": "50", "paint": null },
+      { "name": "Credits", "quantity": "30", "paint": null },
+      { "name": "Dueling Dragons", "quantity": 1, "paint": null },
+      { "name": "Credits", "quantity": "70", "paint": null },
+      { "name": "Credits", "quantity": "30", "paint": null },
+      { "name": "Credits", "quantity": "50", "paint": null },
+      { "name": "Credits", "quantity": "60", "paint": null },
+      { "name": "Credits", "quantity": "40", "paint": null }
+    ],
+    "wants": [
+      { "name": "Hellfire", "quantity": 1, "paint": null },
+      { "name": "Atomizer", "quantity": 1, "paint": null },
+      { "name": "Shattered", "quantity": 1, "paint": null },
+      { "name": "Poly Pop", "quantity": 1, "paint": null },
+      { "name": "Credits", "quantity": "600", "paint": null },
+      { "name": "Sub-Zero", "quantity": 1, "paint": null },
+      { "name": "Singularity", "quantity": 1, "paint": null },
+      { "name": "Neuro-Agitator", "quantity": 1, "paint": null },
+      { "name": "Electroshock", "quantity": 1, "paint": null },
+      { "name": "Party Time", "quantity": 1, "paint": null }
+    ]
+  },
+  {
+    "id": "VO9R266",
+    "has": [
+      { "name": "Mainframe", "quantity": 1, "paint": "Titanium White" },
+      { "name": "Halo", "quantity": 1, "paint": "Cobalt" },
+      { "name": "CRL Northern (Octane)", "quantity": 1, "paint": "Black" },
+      { "name": "Stern (Very Rare)", "quantity": 1, "paint": "Pink" },
+      { "name": "Stern (Very Rare)", "quantity": 1, "paint": "Burnt Sienna" },
+      { "name": "Alchemist (Uncommon)", "quantity": 1, "paint": "Crimson" },
+      { "name": "Fennec", "quantity": 1, "paint": null }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "15400", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "250", "paint": "Cobalt" },
+      { "name": "Credits", "quantity": "12500", "paint": "Black" },
+      { "name": "Credits", "quantity": "70", "paint": "Pink" },
+      { "name": "Credits", "quantity": "70", "paint": "Burnt Sienna" },
+      { "name": "Credits", "quantity": "600", "paint": "Crimson" },
+      { "name": "Credits", "quantity": "420", "paint": null }
+    ]
+  },
+  {
+    "id": "LnbgNzM",
+    "has": [
+      { "name": "Credits", "quantity": "50", "paint": null },
+      { "name": "Credits", "quantity": "50", "paint": null },
+      { "name": "Credits", "quantity": "50", "paint": null },
+      { "name": "Credits", "quantity": "50", "paint": null },
+      { "name": "Credits", "quantity": "50", "paint": null }
+    ],
+    "wants": [
+      { "name": "Invader (Uncommon)", "quantity": 1, "paint": "Lime" },
+      { "name": "Invader (Uncommon)", "quantity": 1, "paint": "Cobalt" },
+      { "name": "Invader (Uncommon)", "quantity": 1, "paint": "Forest Green" },
+      { "name": "Invader (Uncommon)", "quantity": 1, "paint": "Saffron" },
+      { "name": "Invader (Uncommon)", "quantity": 1, "paint": "Sky Blue" }
+    ]
+  },
+  {
+    "id": "ONVe3g6",
+    "has": [{ "name": "Tunica (Exotic)", "quantity": 1, "paint": "Lime" }],
+    "wants": [{ "name": "Credits", "quantity": "3150", "paint": null }]
+  },
+  {
+    "id": "waZ7Y0d",
+    "has": [
+      { "name": "Credits", "quantity": "100", "paint": null },
+      { "name": "Credits", "quantity": "140", "paint": null },
+      { "name": "Credits", "quantity": "280", "paint": null },
+      { "name": "Credits", "quantity": "140", "paint": null },
+      { "name": "Credits", "quantity": "140", "paint": null },
+      { "name": "Credits", "quantity": "150", "paint": null },
+      { "name": "Credits", "quantity": "150", "paint": null },
+      { "name": "Credits", "quantity": "150", "paint": null },
+      { "name": "Credits", "quantity": "100", "paint": null }
+    ],
+    "wants": [
+      { "name": "Almas (Uncommon)", "quantity": 1, "paint": "Burnt Sienna" },
+      { "name": "Almas (Uncommon)", "quantity": 1, "paint": "Sky Blue" },
+      { "name": "Almas (Uncommon)", "quantity": 1, "paint": "Titanium White" },
+      { "name": "Almas (Uncommon)", "quantity": 1, "paint": "Cobalt" },
+      { "name": "Almas (Uncommon)", "quantity": 1, "paint": "Orange" },
+      { "name": "Almas (Uncommon)", "quantity": 1, "paint": "Pink" },
+      { "name": "Almas (Uncommon)", "quantity": 1, "paint": "Purple" },
+      { "name": "Almas (Uncommon)", "quantity": 1, "paint": "Saffron" }
+    ]
+  },
+  {
+    "id": "K0Xnbek",
+    "has": [
+      { "name": "Credits", "quantity": "9010", "paint": "Pink" },
+      { "name": "Credits", "quantity": "6700", "paint": "Cobalt" },
+      { "name": "Credits", "quantity": "9230", "paint": "Pink" },
+      { "name": "Credits", "quantity": "6830", "paint": "Cobalt" },
+      { "name": "Credits", "quantity": "510", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "300", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "510", "paint": "Black" },
+      { "name": "Credits", "quantity": "210", "paint": "Black" },
+      { "name": "Credits", "quantity": "27300", "paint": "Titanium White" },
+      { "name": "Credits", "quantity": "250", "paint": "Titanium White" }
+    ],
+    "wants": [
+      { "name": "Tunica (Uncommon)", "quantity": 1, "paint": "Pink" },
+      { "name": "Tunica (Uncommon)", "quantity": 1, "paint": "Cobalt" },
+      { "name": "Tunica (Exotic)", "quantity": 1, "paint": "Pink" },
+      { "name": "Tunica (Exotic)", "quantity": 1, "paint": "Cobalt" },
+      { "name": "Ombre (Fennec)", "quantity": 1, "paint": "Titanium White" },
+      {
+        "name": "Ombre (Fennec) Blueprint",
+        "quantity": 1,
+        "paint": "Titanium White"
+      },
+      { "name": "Ombre (Fennec)", "quantity": 1, "paint": "Black" },
+      { "name": "Ombre (Fennec) Blueprint", "quantity": 1, "paint": "Black" },
+      {
+        "name": "CRL Northern (Octane)",
+        "quantity": 1,
+        "paint": "Titanium White"
+      },
+      { "name": "RLCS (Dominus)", "quantity": 1, "paint": "Titanium White" }
+    ]
+  },
+  {
+    "id": "5vMporN",
+    "has": [
+      { "name": "CRL Northern (Octane)", "quantity": 1, "paint": "Lime" }
+    ],
+    "wants": [{ "name": "Credits", "quantity": "3750", "paint": null }]
+  },
+  {
+    "id": "6e2Wa9N",
+    "has": [
+      { "name": "Credits offer", "quantity": 1, "paint": null },
+      { "name": "Credits offer", "quantity": 1, "paint": null },
+      { "name": "Credits offer", "quantity": 1, "paint": null },
+      { "name": "Credits offer", "quantity": 1, "paint": null },
+      { "name": "Credits offer", "quantity": 1, "paint": null },
+      { "name": "Credits offer", "quantity": 1, "paint": null }
+    ],
+    "wants": [
+      { "name": "Standard (Import)", "quantity": 1, "paint": "Burnt Sienna" },
+      { "name": "Standard (Import)", "quantity": 1, "paint": "Titanium White" },
+      { "name": "Standard (Import)", "quantity": 1, "paint": "Crimson" },
+      { "name": "Standard (Import)", "quantity": 1, "paint": "Forest Green" },
+      { "name": "Standard (Import)", "quantity": 1, "paint": "Orange" },
+      { "name": "Standard (Import)", "quantity": 1, "paint": "Sky Blue" }
+    ]
+  },
+  {
+    "id": "BG5zp0V",
+    "has": [
+      { "name": "Non-Crate Exotic Offer", "quantity": 1, "paint": null },
+      { "name": "Non-Crate Very Rare offer", "quantity": 1, "paint": null },
+      { "name": "Non-Crate Import Offer", "quantity": 1, "paint": null },
+      { "name": "Non-Crate Rare offer", "quantity": "50", "paint": null },
+      { "name": "Non-Crate Uncommon Offer", "quantity": "50", "paint": null },
+      { "name": "Non-Crate Rare offer", "quantity": "24", "paint": null },
+      { "name": "Non-Crate Uncommon Offer", "quantity": "24", "paint": null },
+      { "name": "Non-Crate Very Rare offer", "quantity": "24", "paint": null },
+      { "name": "Non-Crate Very Rare offer", "quantity": "50", "paint": null },
+      { "name": "Non-Crate Rare offer", "quantity": 1, "paint": null }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "80", "paint": null },
+      { "name": "Credits", "quantity": "25", "paint": null },
+      { "name": "Credits", "quantity": "30", "paint": null },
+      { "name": "Credits", "quantity": "500", "paint": null },
+      { "name": "Credits", "quantity": "500", "paint": null },
+      { "name": "Credits", "quantity": "240", "paint": null },
+      { "name": "Credits", "quantity": "240", "paint": null },
+      { "name": "Credits", "quantity": "600", "paint": null },
+      { "name": "Credits", "quantity": "1250", "paint": null },
+      { "name": "Credits", "quantity": "10", "paint": null }
+    ]
+  },
+  {
+    "id": "eDNyqrD",
+    "has": [
+      { "name": "Drip Drop", "quantity": 1, "paint": null },
+      { "name": "Hustle Brows", "quantity": 1, "paint": null },
+      { "name": "Mount Champion", "quantity": 1, "paint": null },
+      { "name": "Sea Turtle", "quantity": 1, "paint": null },
+      { "name": "Stoic Muffin", "quantity": 1, "paint": null },
+      { "name": "Two-Timer", "quantity": 1, "paint": null },
+      { "name": "Credits", "quantity": "60", "paint": null }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "6000", "paint": null },
+      { "name": "Credits", "quantity": "1500", "paint": null },
+      { "name": "Credits", "quantity": "4250", "paint": null },
+      { "name": "Credits", "quantity": "14500", "paint": null },
+      { "name": "Credits", "quantity": "7500", "paint": null },
+      { "name": "Credits", "quantity": "7500", "paint": null },
+      { "name": "Neural Network (Global)", "quantity": 1, "paint": "Pink" }
+    ]
+  },
+  {
+    "id": "dvqAzp7",
+    "has": [
+      { "name": "Asterias", "quantity": 1, "paint": "Pink" },
+      { "name": "Stegosaur", "quantity": 1, "paint": "Pink" },
+      { "name": "Stride Tide", "quantity": 1, "paint": "Pink" },
+      { "name": "Wet Paint", "quantity": 1, "paint": "Pink" }
+    ],
+    "wants": [
+      { "name": "Credits", "quantity": "400", "paint": null },
+      { "name": "Credits", "quantity": "170", "paint": null },
+      { "name": "Credits", "quantity": "2200", "paint": null },
+      { "name": "Credits", "quantity": "140", "paint": null }
+    ]
+  },
+  {
+    "id": "omM8VaG",
+    "has": [
+      { "name": "Credits", "quantity": "500", "paint": "Black" },
+      { "name": "Credits", "quantity": "350", "paint": "Black" },
+      { "name": "Credits", "quantity": "1550", "paint": "Black" },
+      { "name": "Credits", "quantity": "760", "paint": "Black" },
+      { "name": "Credits", "quantity": "30", "paint": "Purple" },
+      { "name": "Credits", "quantity": "30", "paint": "Saffron" },
+      { "name": "Credits", "quantity": "30", "paint": "Pink" },
+      { "name": "Credits", "quantity": "30", "paint": "Grey" },
+      { "name": "Credits", "quantity": "30", "paint": "Cobalt" },
+      { "name": "Credits", "quantity": "150", "paint": "Lime" }
+    ],
+    "wants": [
+      { "name": "OEM (Very Rare)", "quantity": 1, "paint": "Black" },
+      { "name": "Stern (Very Rare)", "quantity": 1, "paint": "Black" },
+      { "name": "OEM (Exotic)", "quantity": 1, "paint": "Black" },
+      { "name": "Stern (Exotic)", "quantity": 1, "paint": "Black" },
+      { "name": "Dune Racer (Octane)", "quantity": 1, "paint": "Purple" },
+      { "name": "Dune Racer (Octane)", "quantity": 1, "paint": "Saffron" },
+      { "name": "Dune Racer (Octane)", "quantity": 1, "paint": "Pink" },
+      { "name": "Dune Racer (Octane)", "quantity": 1, "paint": "Grey" },
+      { "name": "Dune Racer (Octane)", "quantity": 1, "paint": "Cobalt" },
+      { "name": "Dune Racer (Octane)", "quantity": 1, "paint": "Lime" }
+    ]
+  }
+]

@@ -32,30 +32,6 @@ def read_inventory(filename:str):
       pass # a comma in name
   return items
 
-def search_av_price(item:str):
-  response = requests.post(
-    'https://rl.insider.gg/api/itemSearchEngine',
-    data=json.dumps({"languageID":0,"query":item.name}))
-  try:
-    data = response.json()
-  except requests.exceptions.JSONDecodeError:
-    # no search results
-    return False
-  if 'options' in data:
-    data = data['options'][0]
-  try:
-    uri = data['uri']
-  except KeyError:
-    return False
-
-  # get price of item
-  response = requests.get('https://rl.insider.gg/en/pc/'+uri)
-  price = response.text.split('id="matrixRow0"')[1].split('</tr>')[0].split('</div>')[-1].split('<td>')[1].split('</td>')[0]
-  if price == '&emsp;': #error
-    return False
-  lower, higher = price.split(' - ')
-  lower, higher = int(lower), int(higher)
-  return lower, higher
 
 inventory = read_inventory('inventory.csv')
 # inventory = [item for item in inventory if item.slot != 'Blueprint']

@@ -3,15 +3,17 @@ import time
 
 class Seller(ChromeBrowser):
   def sell(self, itemname:str, price:int):
-    self.execute('select_slot', {'side':'has', 'index':1})
-    self.execute('select_inventory_item', {'name':'breakout'})
-    self.execute('select_slot', {'side':'wants', 'index':1})
+    self.execute('set_location', {'location':'/trading/new'})
+    self.execute('select_slot', {'side':'has', 'index':0})
+    self.execute('select_inventory_item', {'name':itemname})
+    self.execute('select_slot', {'side':'wants', 'index':0})
     self.execute('select_inventory_item', {'name':'credits'})
-    self.execute('select_slot', {'side':'wants', 'index':1})
-    self.execute('set_credit_amount', {'value':200})
+    self.execute('select_slot', {'side':'wants', 'index':0})
+    self.execute('set_credit_amount', {'value':price})
+    self.execute('set_note', {'text':'Just emptying my inventory.'})
 
 
 
 if __name__ == '__main__':
   seller = Seller()
-  seller.sell('fennec', 550)
+  seller.sell('Venom', 150)

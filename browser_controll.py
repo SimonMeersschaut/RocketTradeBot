@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, request
 import os
 import json
 import threading
@@ -18,11 +18,13 @@ class ChromeBrowser:
     
     self.add_endpoint('/load_buffer', 'load_buffer', self.load_buffer)
     self.add_endpoint('/register_execution', 'register_execution', self.register_execution, methods=['POST'])
+    self.add_endpoint('/post_response_data', 'post_response_data', self.post_response_data, methods=['POST'])
     # self.add_endpoint('/connected', 'connected', self.connected, methods=['POST'])
 
     self.command = None
     self.executed = False
-    # self.connected = False
+    self.waiting_for_response_data = False
+    self.response_data = None
     self.run(port=5000)
     time.sleep(2)
     # self.wait_for_connection()
@@ -65,15 +67,29 @@ class ChromeBrowser:
     print('SEEMS EXECUTED')
     return json.dumps({'success':True})
   
-  def execute(self, command, data):
+  def post_response_data(self):
+    print('RESPONSE ACCEPTED')
+    data = request.get_json(force=True)
+    print(data)
+    self.response_data = data
+    self.waiting_for_response_data = False
+    return json.dumps(data)
+  
+  def wait_for_response_data(self):
+    ...
+    # self.waiting_for_response_data = True
+    
+    # while self.waiting_for_response_data:
+    #   time.sleep(.5)
+    #   print(self.waiting_for_response_data)
+    # print('DONE WAITING')
+    # return self.response_data
+    
+  
+  def execute(self, command, data={}):
     self.executed = False
     self.command = {"command_name":command, "data":data}
 
-    # wait for buffer to empty
-    # print('[SESSION] wait for client to read')
-    # while self.command != None:
-    #   time.sleep(1)
-    
     print('[SESSION] wait for execution')
     while not self.executed:
       time.sleep(.5)
