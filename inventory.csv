@@ -1,0 +1,1720 @@
+product id,name,slot,paint,certification,certification value,certification label,quality,crate,tradeable,amount,instanceid
+22,Breakout,Body,none,none,0,none,Common,unlock,false,1,0
+23,Octane,Body,none,none,0,none,Common,unlock,false,1,0
+30,Merc,Body,none,none,0,none,Common,unlock,false,1,0
+63,Standard,Rocket Boost,none,none,0,none,Common,unlock,false,1,0
+124,Algeria,Antenna,none,none,0,none,Common,unlock,false,1,0
+125,Argentina,Antenna,none,none,0,none,Common,unlock,false,1,0
+126,Australia,Antenna,none,none,0,none,Common,unlock,false,1,0
+127,Austria,Antenna,none,none,0,none,Common,unlock,false,1,0
+128,Belgium,Antenna,none,none,0,none,Common,unlock,false,1,0
+129,Bosnia and Herzegovina,Antenna,none,none,0,none,Common,unlock,false,1,0
+130,Brazil,Antenna,none,none,0,none,Common,unlock,false,1,0
+131,Bulgaria,Antenna,none,none,0,none,Common,unlock,false,1,0
+132,Cameroon,Antenna,none,none,0,none,Common,unlock,false,1,0
+133,Canada,Antenna,none,none,0,none,Common,unlock,false,1,0
+134,Cape Verde Islands,Antenna,none,none,0,none,Common,unlock,false,1,0
+135,Chile,Antenna,none,none,0,none,Common,unlock,false,1,0
+136,China,Antenna,none,none,0,none,Common,unlock,false,1,0
+137,Colombia,Antenna,none,none,0,none,Common,unlock,false,1,0
+138,Congo,Antenna,none,none,0,none,Common,unlock,false,1,0
+139,Costa Rica,Antenna,none,none,0,none,Common,unlock,false,1,0
+140,Croatia,Antenna,none,none,0,none,Common,unlock,false,1,0
+141,Cyprus,Antenna,none,none,0,none,Common,unlock,false,1,0
+142,Czech Republic,Antenna,none,none,0,none,Common,unlock,false,1,0
+143,Denmark,Antenna,none,none,0,none,Common,unlock,false,1,0
+144,Ecuador,Antenna,none,none,0,none,Common,unlock,false,1,0
+145,El Salvador,Antenna,none,none,0,none,Common,unlock,false,1,0
+146,England,Antenna,none,none,0,none,Common,unlock,false,1,0
+147,Equatorial Guinea,Antenna,none,none,0,none,Common,unlock,false,1,0
+148,Finland,Antenna,none,none,0,none,Common,unlock,false,1,0
+149,France,Antenna,none,none,0,none,Common,unlock,false,1,0
+150,Germany,Antenna,none,none,0,none,Common,unlock,false,1,0
+151,Ghana,Antenna,none,none,0,none,Common,unlock,false,1,0
+152,Greece,Antenna,none,none,0,none,Common,unlock,false,1,0
+153,Guatemala,Antenna,none,none,0,none,Common,unlock,false,1,0
+154,Guinea,Antenna,none,none,0,none,Common,unlock,false,1,0
+155,Honduras,Antenna,none,none,0,none,Common,unlock,false,1,0
+156,Hong Kong,Antenna,none,none,0,none,Common,unlock,false,1,0
+157,Hungary,Antenna,none,none,0,none,Common,unlock,false,1,0
+158,Iceland,Antenna,none,none,0,none,Common,unlock,false,1,0
+159,India,Antenna,none,none,0,none,Common,unlock,false,1,0
+160,Indonesia,Antenna,none,none,0,none,Common,unlock,false,1,0
+161,Iran,Antenna,none,none,0,none,Common,unlock,false,1,0
+162,Ireland,Antenna,none,none,0,none,Common,unlock,false,1,0
+163,Israel,Antenna,none,none,0,none,Common,unlock,false,1,0
+164,Italy,Antenna,none,none,0,none,Common,unlock,false,1,0
+165,C�te d'Ivoire,Antenna,none,none,0,none,Common,unlock,false,1,0
+166,Jamaica,Antenna,none,none,0,none,Common,unlock,false,1,0
+167,Japan,Antenna,none,none,0,none,Common,unlock,false,1,0
+168,Kenya,Antenna,none,none,0,none,Common,unlock,false,1,0
+169,Luxembourg,Antenna,none,none,0,none,Common,unlock,false,1,0
+170,Malaysia,Antenna,none,none,0,none,Common,unlock,false,1,0
+171,Malta,Antenna,none,none,0,none,Common,unlock,false,1,0
+172,Mexico,Antenna,none,none,0,none,Common,unlock,false,1,0
+173,Netherlands,Antenna,none,none,0,none,Common,unlock,false,1,0
+174,New Zealand,Antenna,none,none,0,none,Common,unlock,false,1,0
+175,Nicaragua,Antenna,none,none,0,none,Common,unlock,false,1,0
+176,Nigeria,Antenna,none,none,0,none,Common,unlock,false,1,0
+177,Northern Ireland,Antenna,none,none,0,none,Common,unlock,false,1,0
+178,Norway,Antenna,none,none,0,none,Common,unlock,false,1,0
+179,Pakistan,Antenna,none,none,0,none,Common,unlock,false,1,0
+180,Panama,Antenna,none,none,0,none,Common,unlock,false,1,0
+181,Peru,Antenna,none,none,0,none,Common,unlock,false,1,0
+182,Philippines,Antenna,none,none,0,none,Common,unlock,false,1,0
+183,Poland,Antenna,none,none,0,none,Common,unlock,false,1,0
+184,Portugal,Antenna,none,none,0,none,Common,unlock,false,1,0
+185,Romania,Antenna,none,none,0,none,Common,unlock,false,1,0
+186,Russia,Antenna,none,none,0,none,Common,unlock,false,1,0
+187,Scotland,Antenna,none,none,0,none,Common,unlock,false,1,0
+188,Senegal,Antenna,none,none,0,none,Common,unlock,false,1,0
+189,Serbia,Antenna,none,none,0,none,Common,unlock,false,1,0
+190,Singapore,Antenna,none,none,0,none,Common,unlock,false,1,0
+191,Slovakia,Antenna,none,none,0,none,Common,unlock,false,1,0
+192,Slovenia,Antenna,none,none,0,none,Common,unlock,false,1,0
+193,South Africa,Antenna,none,none,0,none,Common,unlock,false,1,0
+194,South Korea,Antenna,none,none,0,none,Common,unlock,false,1,0
+195,Spain,Antenna,none,none,0,none,Common,unlock,false,1,0
+196,Sweden,Antenna,none,none,0,none,Common,unlock,false,1,0
+197,Switzerland,Antenna,none,none,0,none,Common,unlock,false,1,0
+199,Thailand,Antenna,none,none,0,none,Common,unlock,false,1,0
+200,Tunisia,Antenna,none,none,0,none,Common,unlock,false,1,0
+201,Turkey,Antenna,none,none,0,none,Common,unlock,false,1,0
+202,United Arab Emirates,Antenna,none,none,0,none,Common,unlock,false,1,0
+203,United Kingdom,Antenna,none,none,0,none,Common,unlock,false,1,0
+204,Ukraine,Antenna,none,none,0,none,Common,unlock,false,1,0
+205,Uruguay,Antenna,none,none,0,none,Common,unlock,false,1,0
+206,United States,Antenna,none,none,0,none,Common,unlock,false,1,0
+207,Venezuela,Antenna,none,none,0,none,Common,unlock,false,1,0
+208,Vietnam,Antenna,none,none,0,none,Common,unlock,false,1,0
+209,Wales,Antenna,none,none,0,none,Common,unlock,false,1,0
+210,Yemen,Antenna,none,none,0,none,Common,unlock,false,1,0
+265,International Flags,Antenna,none,none,0,none,Common,unlock,false,1,0
+270,Glossy,Paint Finish,none,none,0,none,Common,unlock,false,1,0
+288,Backfire: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+289,Backfire: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+290,Backfire: Skulls,Decal,none,none,0,none,Common,unlock,false,1,0
+291,Backfire: Stars,Decal,none,none,0,none,Common,unlock,false,1,0
+292,Backfire: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+293,Backfire: Tech,Decal,none,none,0,none,Common,unlock,false,1,0
+294,Backfire: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+295,Breakout: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+296,Breakout: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+297,Breakout: Skulls,Decal,none,none,0,none,Common,unlock,false,1,0
+298,Breakout: Stars,Decal,none,none,0,none,Common,unlock,false,1,0
+299,Breakout: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+300,Breakout: Tech,Decal,none,none,0,none,Common,unlock,false,1,0
+301,Breakout: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+302,Octane: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+303,Octane: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+304,Octane: Skulls,Decal,none,none,0,none,Common,unlock,false,1,0
+305,Octane: Stars,Decal,none,none,0,none,Common,unlock,false,1,0
+306,Octane: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+307,Octane: Tech,Decal,none,none,0,none,Common,unlock,false,1,0
+308,Octane: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+309,Paladin: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+310,Paladin: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+311,Paladin: Skulls,Decal,none,none,0,none,Common,unlock,false,1,0
+312,Paladin: Stars,Decal,none,none,0,none,Common,unlock,false,1,0
+313,Paladin: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+314,Paladin: Tech,Decal,none,none,0,none,Common,unlock,false,1,0
+315,Paladin: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+316,Road Hog: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+317,Road Hog: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+318,Road Hog: Skulls,Decal,none,none,0,none,Common,unlock,false,1,0
+319,Road Hog: Stars,Decal,none,none,0,none,Common,unlock,false,1,0
+320,Road Hog: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+321,Road Hog: Tech,Decal,none,none,0,none,Common,unlock,false,1,0
+322,Road Hog: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+323,Gizmo: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+324,Gizmo: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+325,Gizmo: Skulls,Decal,none,none,0,none,Common,unlock,false,1,0
+326,Gizmo: Stars,Decal,none,none,0,none,Common,unlock,false,1,0
+327,Gizmo: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+328,Gizmo: Tech,Decal,none,none,0,none,Common,unlock,false,1,0
+329,Gizmo: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+330,X-Devil: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+331,X-Devil: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+332,X-Devil: Skulls,Decal,none,none,0,none,Common,unlock,false,1,0
+333,X-Devil: Stars,Decal,none,none,0,none,Common,unlock,false,1,0
+334,X-Devil: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+335,X-Devil: Tech,Decal,none,none,0,none,Common,unlock,false,1,0
+336,X-Devil: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+337,Hotshot: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+338,Hotshot: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+339,Hotshot: Skulls,Decal,none,none,0,none,Common,unlock,false,1,0
+340,Hotshot: Stars,Decal,none,none,0,none,Common,unlock,false,1,0
+341,Hotshot: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+342,Hotshot: Tech,Decal,none,none,0,none,Common,unlock,false,1,0
+343,Hotshot: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+344,Merc: Dots,Decal,none,none,0,none,Common,unlock,false,1,0
+345,Merc: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+346,Merc: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+347,Merc: Skulls,Decal,none,none,0,none,Common,unlock,false,1,0
+348,Merc: Stars,Decal,none,none,0,none,Common,unlock,false,1,0
+349,Merc: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+350,Merc: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+351,Venom: Dots,Decal,none,none,0,none,Common,unlock,false,1,0
+352,Venom: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+353,Venom: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+354,Venom: Skulls,Decal,none,none,0,none,Common,unlock,false,1,0
+355,Venom: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+356,Venom: Tagged,Decal,none,none,0,none,Common,unlock,false,1,0
+357,Venom: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+376,OEM,Wheels,none,none,0,none,Common,unlock,false,1,0
+389,Sri Lanka,Antenna,none,none,0,none,Common,unlock,false,1,0
+407,Afghanistan,Antenna,none,none,0,none,Common,unlock,false,1,0
+408,Albania,Antenna,none,none,0,none,Common,unlock,false,1,0
+409,American Samoa,Antenna,none,none,0,none,Common,unlock,false,1,0
+410,Angola,Antenna,none,none,0,none,Common,unlock,false,1,0
+411,Armenia,Antenna,none,none,0,none,Common,unlock,false,1,0
+412,Azerbaijan,Antenna,none,none,0,none,Common,unlock,false,1,0
+413,Bangladesh,Antenna,none,none,0,none,Common,unlock,false,1,0
+414,Belarus,Antenna,none,none,0,none,Common,unlock,false,1,0
+415,Benin,Antenna,none,none,0,none,Common,unlock,false,1,0
+416,Bolivia,Antenna,none,none,0,none,Common,unlock,false,1,0
+417,Burkina Faso,Antenna,none,none,0,none,Common,unlock,false,1,0
+418,Burma,Antenna,none,none,0,none,Common,unlock,false,1,0
+419,Burundi,Antenna,none,none,0,none,Common,unlock,false,1,0
+420,Cambodia,Antenna,none,none,0,none,Common,unlock,false,1,0
+422,Chad,Antenna,none,none,0,none,Common,unlock,false,1,0
+423,Congo DR,Antenna,none,none,0,none,Common,unlock,false,1,0
+424,Cuba,Antenna,none,none,0,none,Common,unlock,false,1,0
+425,Dominican Republic,Antenna,none,none,0,none,Common,unlock,false,1,0
+426,Egypt,Antenna,none,none,0,none,Common,unlock,false,1,0
+427,Eritrea,Antenna,none,none,0,none,Common,unlock,false,1,0
+428,Estonia,Antenna,none,none,0,none,Common,unlock,false,1,0
+429,Ethiopia,Antenna,none,none,0,none,Common,unlock,false,1,0
+430,Gabon,Antenna,none,none,0,none,Common,unlock,false,1,0
+431,Georgia,Antenna,none,none,0,none,Common,unlock,false,1,0
+432,Guam,Antenna,none,none,0,none,Common,unlock,false,1,0
+433,Haiti,Antenna,none,none,0,none,Common,unlock,false,1,0
+434,Iraq,Antenna,none,none,0,none,Common,unlock,false,1,0
+435,Jordan,Antenna,none,none,0,none,Common,unlock,false,1,0
+436,Kazakhstan,Antenna,none,none,0,none,Common,unlock,false,1,0
+437,Kuwait,Antenna,none,none,0,none,Common,unlock,false,1,0
+438,Kyrgyzstan,Antenna,none,none,0,none,Common,unlock,false,1,0
+439,Laos,Antenna,none,none,0,none,Common,unlock,false,1,0
+440,Latvia,Antenna,none,none,0,none,Common,unlock,false,1,0
+441,Lebanon,Antenna,none,none,0,none,Common,unlock,false,1,0
+442,Liberia,Antenna,none,none,0,none,Common,unlock,false,1,0
+443,Libya,Antenna,none,none,0,none,Common,unlock,false,1,0
+444,Lithuania,Antenna,none,none,0,none,Common,unlock,false,1,0
+445,Macedonia,Antenna,none,none,0,none,Common,unlock,false,1,0
+446,Madagascar,Antenna,none,none,0,none,Common,unlock,false,1,0
+447,Malawi,Antenna,none,none,0,none,Common,unlock,false,1,0
+448,Mali,Antenna,none,none,0,none,Common,unlock,false,1,0
+449,Mauritania,Antenna,none,none,0,none,Common,unlock,false,1,0
+450,Moldova,Antenna,none,none,0,none,Common,unlock,false,1,0
+451,Mongolia,Antenna,none,none,0,none,Common,unlock,false,1,0
+452,Montenegro,Antenna,none,none,0,none,Common,unlock,false,1,0
+453,Morocco,Antenna,none,none,0,none,Common,unlock,false,1,0
+454,Mozambique,Antenna,none,none,0,none,Common,unlock,false,1,0
+456,North Mariana Islands,Antenna,none,none,0,none,Common,unlock,false,1,0
+457,Namibia,Antenna,none,none,0,none,Common,unlock,false,1,0
+458,Nepal,Antenna,none,none,0,none,Common,unlock,false,1,0
+459,Republic of Niger,Antenna,none,none,0,none,Common,unlock,false,1,0
+460,North Korea,Antenna,none,none,0,none,Common,unlock,false,1,0
+461,Oman,Antenna,none,none,0,none,Common,unlock,false,1,0
+462,Palestine,Antenna,none,none,0,none,Common,unlock,false,1,0
+463,Papua New Guinea,Antenna,none,none,0,none,Common,unlock,false,1,0
+464,Paraguay,Antenna,none,none,0,none,Common,unlock,false,1,0
+465,Puerto Rico,Antenna,none,none,0,none,Common,unlock,false,1,0
+466,Qatar,Antenna,none,none,0,none,Common,unlock,false,1,0
+467,Rwanda,Antenna,none,none,0,none,Common,unlock,false,1,0
+468,Saudi Arabia,Antenna,none,none,0,none,Common,unlock,false,1,0
+469,Sierra Leone,Antenna,none,none,0,none,Common,unlock,false,1,0
+470,Somalia,Antenna,none,none,0,none,Common,unlock,false,1,0
+471,South Sudan,Antenna,none,none,0,none,Common,unlock,false,1,0
+472,Sudan,Antenna,none,none,0,none,Common,unlock,false,1,0
+473,Syria,Antenna,none,none,0,none,Common,unlock,false,1,0
+474,Tajikistan,Antenna,none,none,0,none,Common,unlock,false,1,0
+475,Tanzania,Antenna,none,none,0,none,Common,unlock,false,1,0
+476,Togo,Antenna,none,none,0,none,Common,unlock,false,1,0
+477,Trinidad and Tobago,Antenna,none,none,0,none,Common,unlock,false,1,0
+478,Turkmenistan,Antenna,none,none,0,none,Common,unlock,false,1,0
+479,Uganda,Antenna,none,none,0,none,Common,unlock,false,1,0
+480,US Virgin Islands,Antenna,none,none,0,none,Common,unlock,false,1,0
+481,Uzbekistan,Antenna,none,none,0,none,Common,unlock,false,1,0
+482,Zambia,Antenna,none,none,0,none,Common,unlock,false,1,0
+483,Zimbabwe,Antenna,none,none,0,none,Common,unlock,false,1,0
+496,Community Flags,Antenna,none,none,0,none,Common,unlock,false,1,0
+497,Takumi: Copycat,Decal,none,none,0,none,Common,unlock,false,1,0
+498,Takumi: Reiko,Decal,none,none,0,none,Common,unlock,false,1,0
+499,Takumi: Gaki,Decal,none,none,0,none,Common,unlock,false,1,0
+501,Takumi: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+502,Takumi: Crazy-8,Decal,none,none,0,none,Common,unlock,false,1,0
+503,Takumi: Chaser,Decal,none,none,0,none,Common,unlock,false,1,0
+504,Dominus: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+506,Dominus: Scorpions,Decal,none,none,0,none,Common,unlock,false,1,0
+507,Dominus: Skulls,Decal,none,none,0,none,Common,unlock,false,1,0
+508,Dominus: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+509,Dominus: Tats,Decal,none,none,0,none,Common,unlock,false,1,0
+510,Dominus: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+520,Central Africa Republic,Antenna,none,none,0,none,Common,unlock,false,1,0
+543,Video Games,Antenna,none,none,0,none,Common,unlock,false,1,0
+550,Bahrain,Antenna,none,none,0,none,Common,unlock,false,1,0
+551,Belize,Antenna,none,none,0,none,Common,unlock,false,1,0
+552,Bhutan,Antenna,none,none,0,none,Common,unlock,false,1,0
+553,Botswana,Antenna,none,none,0,none,Common,unlock,false,1,0
+554,Comoros,Antenna,none,none,0,none,Common,unlock,false,1,0
+555,Djibouti,Antenna,none,none,0,none,Common,unlock,false,1,0
+556,East Timor,Antenna,none,none,0,none,Common,unlock,false,1,0
+557,Fiji,Antenna,none,none,0,none,Common,unlock,false,1,0
+558,Gambia,Antenna,none,none,0,none,Common,unlock,false,1,0
+559,Guinea Bissau,Antenna,none,none,0,none,Common,unlock,false,1,0
+560,Guyana,Antenna,none,none,0,none,Common,unlock,false,1,0
+561,Kosovo,Antenna,none,none,0,none,Common,unlock,false,1,0
+562,Lesotho,Antenna,none,none,0,none,Common,unlock,false,1,0
+563,Macau,Antenna,none,none,0,none,Common,unlock,false,1,0
+564,Mauritius,Antenna,none,none,0,none,Common,unlock,false,1,0
+565,Puntland,Antenna,none,none,0,none,Common,unlock,false,1,0
+566,R�union,Antenna,none,none,0,none,Common,unlock,false,1,0
+567,Solomon Islands,Antenna,none,none,0,none,Common,unlock,false,1,0
+568,Somaliland,Antenna,none,none,0,none,Common,unlock,false,1,0
+569,Suriname,Antenna,none,none,0,none,Common,unlock,false,1,0
+570,Swaziland,Antenna,none,none,0,none,Common,unlock,false,1,0
+571,Western Sahara,Antenna,none,none,0,none,Common,unlock,false,1,0
+581,Zippy: Hearts,Decal,none,none,0,none,Common,unlock,false,1,0
+582,Zippy: Tiger,Decal,none,none,0,none,Common,unlock,false,1,0
+583,Zippy: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+584,Zippy: Leopard,Decal,none,none,0,none,Common,unlock,false,1,0
+585,Scarab: Bomani,Decal,none,none,0,none,Common,unlock,false,1,0
+586,Scarab: Hearts,Decal,none,none,0,none,Common,unlock,false,1,0
+587,Scarab: Tiger,Decal,none,none,0,none,Common,unlock,false,1,0
+588,Scarab: Tribal,Decal,none,none,0,none,Common,unlock,false,1,0
+589,Zippy: Caboodle,Decal,none,none,0,none,Common,unlock,false,1,0
+590,Zippy: Callous,Decal,none,none,0,none,Common,unlock,false,1,0
+591,Scarab: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+592,Scarab: Derby Girl,Decal,none,none,0,none,Common,unlock,false,1,0
+609,DeLorean Time Machine,Wheels,none,none,0,none,Common,unlock,false,1,0
+623,Stainless Steel,Paint Finish,none,none,0,none,Common,unlock,false,1,0
+626,OutaTime,Rocket Boost,none,none,0,none,Common,unlock,false,1,0
+669,Ripper: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+670,Ripper: Shot Fox,Decal,none,none,0,none,Common,unlock,false,1,0
+671,Ripper: Spikes,Decal,none,none,0,none,Common,unlock,false,1,0
+672,Ripper: Tribal,Decal,none,none,0,none,Common,unlock,false,1,0
+674,Grog: Bomber,Decal,none,none,0,none,Common,unlock,false,1,0
+675,Grog: Lepus,Decal,none,none,0,none,Common,unlock,false,1,0
+687,Grog: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+694,Grog: Cyclops,Decal,none,none,0,none,Common,unlock,false,1,0
+695,Grog: Tagged,Decal,none,none,0,none,Common,unlock,false,1,0
+696,Grog: Tribal,Decal,none,none,0,none,Common,unlock,false,1,0
+700,Ripper: Ockie,Decal,none,none,0,none,Common,unlock,false,1,0
+701,Ripper: Bomber,Decal,none,none,0,none,Common,unlock,false,1,0
+730,Tonga,Antenna,none,none,0,none,Common,unlock,false,1,0
+830,Andorra,Antenna,none,none,0,none,Common,unlock,false,1,0
+831,Anguilla,Antenna,none,none,0,none,Common,unlock,false,1,0
+832,Antigua & Barbuda,Antenna,none,none,0,none,Common,unlock,false,1,0
+833,Aruba,Antenna,none,none,0,none,Common,unlock,false,1,0
+834,Bahamas,Antenna,none,none,0,none,Common,unlock,false,1,0
+835,Barbados,Antenna,none,none,0,none,Common,unlock,false,1,0
+836,Bermuda,Antenna,none,none,0,none,Common,unlock,false,1,0
+837,British Virgin Islands,Antenna,none,none,0,none,Common,unlock,false,1,0
+838,Cayman Islands,Antenna,none,none,0,none,Common,unlock,false,1,0
+839,Cook Islands,Antenna,none,none,0,none,Common,unlock,false,1,0
+840,Curacao,Antenna,none,none,0,none,Common,unlock,false,1,0
+841,Dominica,Antenna,none,none,0,none,Common,unlock,false,1,0
+842,Falkland Islands,Antenna,none,none,0,none,Common,unlock,false,1,0
+843,Faroe Islands,Antenna,none,none,0,none,Common,unlock,false,1,0
+844,Gibraltar,Antenna,none,none,0,none,Common,unlock,false,1,0
+845,Isle Of Man,Antenna,none,none,0,none,Common,unlock,false,1,0
+846,Kiribati,Antenna,none,none,0,none,Common,unlock,false,1,0
+847,Maldives,Antenna,none,none,0,none,Common,unlock,false,1,0
+848,Marshall Islands,Antenna,none,none,0,none,Common,unlock,false,1,0
+849,Micronesia,Antenna,none,none,0,none,Common,unlock,false,1,0
+850,New Caledonia,Antenna,none,none,0,none,Common,unlock,false,1,0
+851,Palau,Antenna,none,none,0,none,Common,unlock,false,1,0
+852,Saint Kitts & Nevis,Antenna,none,none,0,none,Common,unlock,false,1,0
+853,Saint Lucia,Antenna,none,none,0,none,Common,unlock,false,1,0
+854,Saint Vincent,Antenna,none,none,0,none,Common,unlock,false,1,0
+855,Samoa,Antenna,none,none,0,none,Common,unlock,false,1,0
+856,San Marino,Antenna,none,none,0,none,Common,unlock,false,1,0
+857,Sao Tome,Antenna,none,none,0,none,Common,unlock,false,1,0
+858,Seychelles,Antenna,none,none,0,none,Common,unlock,false,1,0
+859,Tahiti,Antenna,none,none,0,none,Common,unlock,false,1,0
+860,Turks & Caicos,Antenna,none,none,0,none,Common,unlock,false,1,0
+861,Vanuatu,Antenna,none,none,0,none,Common,unlock,false,1,0
+862,Vatican City,Antenna,none,none,0,none,Common,unlock,false,1,0
+863,Grenada,Antenna,none,none,0,none,Common,unlock,false,1,0
+864,Montserrat,Antenna,none,none,0,none,Common,unlock,false,1,0
+868,Batmobile (2016),Rocket Boost,none,none,0,none,Common,unlock,false,1,0
+874,Batmobile (2016),Wheels,none,none,0,none,Common,unlock,false,1,0
+1030,Dominus GT: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+1032,Dominus GT: Protractor,Decal,none,none,0,none,Common,unlock,false,1,0
+1034,Dominus GT: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+1035,Dominus GT: Sunburst,Decal,none,none,0,none,Common,unlock,false,1,0
+1036,Dominus GT: Techno,Decal,none,none,0,none,Common,unlock,false,1,0
+1037,Dominus GT: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+1160,X-Devil Mk2: X,Decal,none,none,0,none,Common,unlock,false,1,0
+1163,X-Devil Mk2: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+1164,X-Devil Mk2: Debugged,Decal,none,none,0,none,Common,unlock,false,1,0
+1165,X-Devil Mk2: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+1167,X-Devil Mk2: Hyper,Decal,none,none,0,none,Common,unlock,false,1,0
+1168,X-Devil Mk2: Stars,Decal,none,none,0,none,Common,unlock,false,1,0
+1173,Masamune: Wildfire,Decal,none,none,0,none,Common,unlock,false,1,0
+1174,Masamune: Stars,Decal,none,none,0,none,Common,unlock,false,1,0
+1175,Masamune: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+1176,Masamune: Road Rage,Decal,none,none,0,none,Common,unlock,false,1,0
+1211,Road Hog XL: Arsenal,Decal,none,none,0,none,Common,unlock,false,1,0
+1277,NBA Flags,Antenna,none,none,0,none,Common,unlock,false,1,0
+1279,Masamune: Otaku,Decal,none,none,0,none,Common,unlock,false,1,0
+1280,Masamune: DJ Sushi,Decal,none,none,0,none,Common,unlock,false,1,0
+1283,Road Hog XL: Wildfire,Decal,none,none,0,none,Common,unlock,false,1,0
+1284,Road Hog XL: Space Trip,Decal,none,none,0,none,Common,unlock,false,1,0
+1296,Takumi RX-T: Skullface,Decal,none,none,0,none,Common,unlock,false,1,0
+1297,Takumi RX-T: Party-Chan,Decal,none,none,0,none,Common,unlock,false,1,0
+1298,Takumi RX-T: Inked,Decal,none,none,0,none,Common,unlock,false,1,0
+1299,Takumi RX-T: Blackwork,Decal,none,none,0,none,Common,unlock,false,1,0
+1301,Takumi RX-T: Rockat,Decal,none,none,0,none,Common,unlock,false,1,0
+1302,Takumi RX-T: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+1306,Aftershock: Tribal,Decal,none,none,0,none,Common,unlock,false,1,0
+1308,Aftershock: Copycat,Decal,none,none,0,none,Common,unlock,false,1,0
+1311,Aftershock: MIRV,Decal,none,none,0,none,Common,unlock,false,1,0
+1312,Aftershock: Seismic,Decal,none,none,0,none,Common,unlock,false,1,0
+1313,Aftershock: Tiger,Decal,none,none,0,none,Common,unlock,false,1,0
+1314,Aftershock: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+1320,Esper: Shank,Decal,none,none,0,none,Common,unlock,false,1,0
+1321,Esper: Super F3,Decal,none,none,0,none,Common,unlock,false,1,0
+1322,Esper: Kaiju,Decal,none,none,0,none,Common,unlock,false,1,0
+1323,Esper: Mouse Cat,Decal,none,none,0,none,Common,unlock,false,1,0
+1324,Esper: Neo,Decal,none,none,0,none,Common,unlock,false,1,0
+1325,Esper: Pegasus,Decal,none,none,0,none,Common,unlock,false,1,0
+1340,Marauder: Big Buck,Decal,none,none,0,none,Common,unlock,false,1,0
+1341,Marauder: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+1345,Marauder: Vagabond,Decal,none,none,0,none,Common,unlock,false,1,0
+1346,Marauder: Ruffian,Decal,none,none,0,none,Common,unlock,false,1,0
+1348,Marauder: Safari,Decal,none,none,0,none,Common,unlock,false,1,0
+1352,Marauder: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+1417,Breakout Type-S: Iris,Decal,none,none,0,none,Common,unlock,false,1,0
+1418,Breakout Type-S: Hyper-Flight,Decal,none,none,0,none,Common,unlock,false,1,0
+1419,Breakout Type-S: Python,Decal,none,none,0,none,Common,unlock,false,1,0
+1420,Breakout Type-S: Shockwave,Decal,none,none,0,none,Common,unlock,false,1,0
+1421,Breakout Type-S: Skulls,Decal,none,none,0,none,Common,unlock,false,1,0
+1422,Breakout Type-S: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+1426,Road Hog XL: Horus,Decal,none,none,0,none,Common,unlock,false,1,0
+1427,Road Hog XL: Muerto,Decal,none,none,0,none,Common,unlock,false,1,0
+1428,Road Hog XL: Playtime,Decal,none,none,0,none,Common,unlock,false,1,0
+1472,Proteus: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+1476,Proteus: Cuttle Time,Decal,none,none,0,none,Common,unlock,false,1,0
+1477,Proteus: Fathom,Decal,none,none,0,none,Common,unlock,false,1,0
+1479,Triton: Daddy-O,Decal,none,none,0,none,Common,unlock,false,1,0
+1481,Triton: Modus Bestia,Decal,none,none,0,none,Common,unlock,false,1,0
+1483,Triton: Makai,Decal,none,none,0,none,Common,unlock,false,1,0
+1484,Triton: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+1485,Triton: Fugu,Decal,none,none,0,none,Common,unlock,false,1,0
+1486,Triton: Ragnarok,Decal,none,none,0,none,Common,unlock,false,1,0
+1495,Proteus: Crash Dive,Decal,none,none,0,none,Common,unlock,false,1,0
+1496,Proteus: Ladybug,Decal,none,none,0,none,Common,unlock,false,1,0
+1521,Proteus: Tiger Shark,Decal,none,none,0,none,Common,unlock,false,1,0
+1536,RLCS,Antenna,none,none,0,none,Common,unlock,false,1,0
+1570,Octane ZSR: Mean Streak,Decal,none,none,0,none,Common,unlock,false,1,0
+1571,Octane ZSR: Interceptor,Decal,none,none,0,none,Common,unlock,false,1,0
+1572,Octane ZSR: Namesake,Decal,none,none,0,none,Common,unlock,false,1,0
+1573,Octane ZSR: Peace,Decal,none,none,0,none,Common,unlock,false,1,0
+1574,Octane ZSR: Gobo,Decal,none,none,0,none,Common,unlock,false,1,0
+1575,Octane ZSR: Wildfire,Decal,none,none,0,none,Common,unlock,false,1,0
+1586,Vulcan: ARC,Decal,none,none,0,none,Common,unlock,false,1,0
+1587,Vulcan: Cryo-Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+1588,Vulcan: Medic,Decal,none,none,0,none,Common,unlock,false,1,0
+1589,Vulcan: Space Worm,Decal,none,none,0,none,Common,unlock,false,1,0
+1590,Vulcan: Combat,Decal,none,none,0,none,Common,unlock,false,1,0
+1598,Vulcan: Armada,Decal,none,none,0,none,Common,unlock,false,1,0
+1642,Bone Shaker: Starstruck,Decal,none,none,0,none,Common,unlock,false,1,0
+1643,Bone Shaker: Pro-Street,Decal,none,none,0,none,Common,unlock,false,1,0
+1644,Bone Shaker: Inferno,Decal,none,none,0,none,Common,unlock,false,1,0
+1645,Bone Shaker: Diablo,Decal,none,none,0,none,Common,unlock,false,1,0
+1646,Bone Shaker: Bone Jack,Decal,none,none,0,none,Common,unlock,false,1,0
+1647,Bone Shaker: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+1658,Twin Mill III: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+1659,Twin Mill III: Primo,Decal,none,none,0,none,Common,unlock,false,1,0
+1660,Twin Mill III: Overline,Decal,none,none,0,none,Common,unlock,false,1,0
+1662,Twin Mill III: Pyro,Decal,none,none,0,none,Common,unlock,false,1,0
+1664,Twin Mill III: Javelin,Decal,none,none,0,none,Common,unlock,false,1,0
+1668,Endo: Dyno,Decal,none,none,0,none,Common,unlock,false,1,0
+1672,Endo: Cupcake,Decal,none,none,0,none,Common,unlock,false,1,0
+1673,Endo: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+1687,Twin Mill III: Speedster,Decal,none,none,0,none,Common,unlock,false,1,0
+1720,Ice Charger: Crazy Sandwich,Decal,none,none,0,none,Common,unlock,false,1,0
+1723,Ice Charger: Rally,Decal,none,none,0,none,Common,unlock,false,1,0
+1738,Ice Charger: CDXL,Decal,none,none,0,none,Common,unlock,false,1,0
+1739,Endo: Cyrus,Decal,none,none,0,none,Common,unlock,false,1,0
+1740,Endo: Circuit Pro,Decal,none,none,0,none,Common,unlock,false,1,0
+1741,Endo: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+1749,Ice Charger: Rakugaki,Decal,none,none,0,none,Common,unlock,false,1,0
+1755,Ice Charger: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+1758,Mantis: Arrowhead,Decal,none,none,0,none,Common,unlock,false,1,0
+1759,Mantis: Battleworn,Decal,none,none,0,none,Common,unlock,false,1,0
+1760,Mantis: Maxx,Decal,none,none,0,none,Common,unlock,false,1,0
+1761,Mantis: Kaze,Decal,none,none,0,none,Common,unlock,false,1,0
+1762,Mantis: Uproar,Decal,none,none,0,none,Common,unlock,false,1,0
+1763,Mantis: Roasted,Decal,none,none,0,none,Common,unlock,false,1,0
+1781,Ice Charger: Clean Cut,Decal,none,none,0,none,Common,unlock,false,1,0
+1794,OEM-A v2,Engine Audio,none,none,0,none,Common,unlock,false,1,0
+1796,OEM-D v2,Engine Audio,none,none,0,none,Common,unlock,false,1,0
+1798,OEM-C v2,Engine Audio,none,none,0,none,Common,unlock,false,1,0
+1800,OEM-B v2,Engine Audio,none,none,0,none,Common,unlock,false,1,0
+1842,Road Hog XL v2,Engine Audio,none,none,0,none,Common,unlock,false,1,0
+1845,Dominus,Engine Audio,none,none,0,none,Common,unlock,false,1,0
+1869,J�ger 619,Engine Audio,none,none,0,none,Common,unlock,false,1,0
+1903,Classic,Goal Explosion,none,none,0,none,Common,unlock,false,1,0
+1921,Centio: L-ITA 99,Decal,none,none,0,none,Common,unlock,false,1,0
+1922,Centio: Flagman,Decal,none,none,0,none,Common,unlock,false,1,0
+1923,Centio: MiNT,Decal,none,none,0,none,Common,unlock,false,1,0
+1924,Centio: Echo-Pulse,Decal,none,none,0,none,Common,unlock,false,1,0
+1925,Centio: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+1927,Centio: Tribal,Decal,none,none,0,none,Common,unlock,false,1,0
+1933,Animus GP: Zhangtek,Decal,none,none,0,none,Common,unlock,false,1,0
+1934,Animus GP: Necro,Decal,none,none,0,none,Common,unlock,false,1,0
+1936,Animus GP: L-ITA 99,Decal,none,none,0,none,Common,unlock,false,1,0
+1937,Animus GP: Rockat,Decal,none,none,0,none,Common,unlock,false,1,0
+1938,Animus GP: Monza,Decal,none,none,0,none,Common,unlock,false,1,0
+1948,Classic,Trail,none,none,0,none,Common,unlock,false,1,0
+1964,Batmobile (2016),Trail,none,none,0,none,Common,unlock,false,1,0
+1966,DeLorean Time Machine,Trail,none,none,0,none,Common,unlock,false,1,0
+1968,Monstercat,Antenna,none,none,0,none,Common,unlock,false,1,0
+1985,Animus GP: Feral,Decal,none,none,0,none,Common,unlock,false,1,0
+1986,Werewolf: Arcadia,Decal,none,none,0,none,Common,unlock,false,1,0
+1987,Werewolf: Big Scratches,Decal,none,none,0,none,Common,unlock,false,1,0
+1988,Werewolf: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+1989,Werewolf: Pro,Decal,none,none,0,none,Common,unlock,false,1,0
+1990,Werewolf: Anticlipse,Decal,none,none,0,none,Common,unlock,false,1,0
+1991,Werewolf: Shapeshifter,Decal,none,none,0,none,Common,unlock,false,1,0
+1992,Imperator DT5: '80s Grad,Decal,none,none,0,none,Common,unlock,false,1,0
+1993,Imperator DT5: ARC,Decal,none,none,0,none,Common,unlock,false,1,0
+1994,Imperator DT5: NBP,Decal,none,none,0,none,Common,unlock,false,1,0
+2003,Imperator DT5: Skullcap,Decal,none,none,0,none,Common,unlock,false,1,0
+2004,Imperator DT5: Righteous Sun,Decal,none,none,0,none,Common,unlock,false,1,0
+2016,Octane: Monstercat,Decal,none,none,0,none,Common,unlock,false,1,0
+2061,Jon Sandman,Antenna,none,none,0,none,Common,unlock,false,1,0
+2081,J�ger 619: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+2086,Imperator DT5: Overhaul,Decal,none,none,0,none,Common,unlock,false,1,0
+2097,J�ger 619: The Summit,Decal,none,none,0,none,Common,unlock,false,1,0
+2157,J�ger 619: Kraken,Decal,none,none,0,none,Common,unlock,false,1,0
+2277,J�ger 619: Storm Warning,Decal,none,none,0,none,Common,unlock,false,1,0
+2278,J�ger 619: Euphoria,Decal,none,none,0,none,Common,unlock,false,1,0
+2374,Fast & Furious Dodge Charger: Alameda Twin,Decal,none,none,0,none,Common,unlock,false,1,0
+2375,Fast & Furious Dodge Charger: Good Graces,Decal,none,none,0,none,Common,unlock,false,1,0
+2376,Fast & Furious Dodge Charger: Rally,Decal,none,none,0,none,Common,unlock,false,1,0
+2378,J�ger 619: Circuit Pro,Decal,none,none,0,none,Common,unlock,false,1,0
+2396,Fast & Furious Dodge Charger: Sinclair,Decal,none,none,0,none,Common,unlock,false,1,0
+2397,Fast & Furious Dodge Charger: Wheelman,Decal,none,none,0,none,Common,unlock,false,1,0
+2398,Fast & Furious Dodge Charger: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+2472,Fast & Furious Nissan Skyline,Wheels,none,none,0,none,Common,unlock,false,1,0
+2484,Fast & Furious Nissan Skyline: Home Stretch,Decal,none,none,0,none,Common,unlock,false,1,0
+2485,Fast & Furious Nissan Skyline: 2Cool,Decal,none,none,0,none,Common,unlock,false,1,0
+2491,Fast & Furious Nissan Skyline: Clean Cut,Decal,none,none,0,none,Common,unlock,false,1,0
+2492,Fast & Furious Nissan Skyline: The Clutch,Decal,none,none,0,none,Common,unlock,false,1,0
+2493,Fast & Furious Nissan Skyline: 2Bold,Decal,none,none,0,none,Common,unlock,false,1,0
+2494,Fast & Furious Nissan Skyline: 2Tuff,Decal,none,none,0,none,Common,unlock,false,1,0
+2526,Standard,Player Banner,none,none,0,none,Common,unlock,false,1,0
+2606,Fast & Furious Dodge Charger,Wheels,none,none,0,none,Common,unlock,false,1,0
+2725,Batmobile (1989),Wheels,none,none,0,none,Common,unlock,false,1,0
+2733,The Dark Knight's Tumbler: Camo,Decal,none,none,0,none,Common,unlock,false,1,0
+2738,The Dark Knight's Tumbler,Wheels,none,none,0,none,Common,unlock,false,1,0
+2748,Batmobile (1989),Paint Finish,none,none,0,none,Common,unlock,false,1,0
+2759,Brunei,Antenna,none,none,0,none,Common,unlock,false,1,0
+2760,Monaco,Antenna,none,none,0,none,Common,unlock,false,1,0
+2761,Nauru,Antenna,none,none,0,none,Common,unlock,false,1,0
+2762,Tuvalu,Antenna,none,none,0,none,Common,unlock,false,1,0
+2765,The Dark Knight's Tumbler,Rocket Boost,none,none,0,none,Common,unlock,false,1,0
+2777,The Dark Knight's Tumbler,Trail,none,none,0,none,Common,unlock,false,1,0
+2779,Batmobile (1989),Trail,none,none,0,none,Common,unlock,false,1,0
+2780,Batmobile (1989),Rocket Boost,none,none,0,none,Common,unlock,false,1,0
+2839,Monstercat,Antenna,none,none,0,none,Common,unlock,false,1,0
+2864,Uncaged Cat,Antenna,none,none,0,none,Common,unlock,false,1,0
+2868,Instinct,Antenna,none,none,0,none,Common,unlock,false,1,0
+2870,Pegboard Nerds,Antenna,none,none,0,none,Common,unlock,false,1,0
+2871,Stonebank,Antenna,none,none,0,none,Common,unlock,false,1,0
+2872,Uncaged,Antenna,none,none,0,none,Common,unlock,false,1,0
+2886,Samurai: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+2887,Samurai: Thunderspeck,Decal,none,none,0,none,Common,unlock,false,1,0
+2892,Samurai: Star Swash,Decal,none,none,0,none,Common,unlock,false,1,0
+2893,Samurai: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+2894,Samurai: Midnight D,Decal,none,none,0,none,Common,unlock,false,1,0
+2895,Samurai: Pegasus,Decal,none,none,0,none,Common,unlock,false,1,0
+2905,Anna Yvette,Antenna,none,none,0,none,Common,unlock,false,1,0
+2906,Intercom,Antenna,none,none,0,none,Common,unlock,false,1,0
+2907,Koven,Antenna,none,none,0,none,Common,unlock,false,1,0
+2909,Slippy,Antenna,none,none,0,none,Common,unlock,false,1,0
+2914,Protostar,Antenna,none,none,0,none,Common,unlock,false,1,0
+2942,Twinzer: Motor Monster,Decal,none,none,0,none,Common,unlock,false,1,0
+2944,Twinzer: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+2945,Twinzer: AWD,Decal,none,none,0,none,Common,unlock,false,1,0
+2946,Twinzer: Trace Racer,Decal,none,none,0,none,Common,unlock,false,1,0
+2947,Twinzer: Radium,Decal,none,none,0,none,Common,unlock,false,1,0
+2955,Jurassic Jeep� Wrangler,Wheels,none,none,0,none,Common,unlock,false,1,0
+2973,Canvas,Paint Finish,none,none,0,none,Common,unlock,false,1,0
+2974,Metallic (Rough),Paint Finish,none,none,0,none,Common,unlock,false,1,0
+2989,Twinzer: Slimed,Decal,none,none,0,none,Common,unlock,false,1,0
+2990,Bad Computer,Antenna,none,none,0,none,Common,unlock,false,1,0
+2991,Dion Timmer,Antenna,none,none,0,none,Common,unlock,false,1,0
+2992,Duumu,Antenna,none,none,0,none,Common,unlock,false,1,0
+2994,Rootkit,Antenna,none,none,0,none,Common,unlock,false,1,0
+2995,Stephen Walking,Antenna,none,none,0,none,Common,unlock,false,1,0
+2997,Skyelle,Antenna,none,none,0,none,Common,unlock,false,1,0
+2998,Sundial,Antenna,none,none,0,none,Common,unlock,false,1,0
+3029,Inverness,Antenna,none,none,0,none,Common,unlock,false,1,0
+3030,Soupandreas,Antenna,none,none,0,none,Common,unlock,false,1,0
+3052,Aiobahn,Antenna,none,none,0,none,Common,unlock,false,1,0
+3085,Default,Avatar Border,none,none,0,none,Common,unlock,false,1,0
+3104,MR11: Diecast,Decal,none,none,0,none,Common,unlock,false,1,0
+3115,MR11: Hot Wheels Race Team,Decal,none,none,0,none,Common,unlock,false,1,0
+3180,MR11: 50th Anniversary,Decal,none,none,0,none,Common,unlock,false,1,0
+3217,Cyclone: Whiteout,Decal,none,none,0,none,Common,unlock,false,1,0
+3219,Cyclone: Bat Boy,Decal,none,none,0,none,Common,unlock,false,1,0
+3231,Cyclone: L-ITA 99,Decal,none,none,0,none,Common,unlock,false,1,0
+3232,Cyclone: Sliver,Decal,none,none,0,none,Common,unlock,false,1,0
+3233,Cyclone: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+3236,Cyclone: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+3252,Fast 4WD: 50th Anniversary,Decal,none,none,0,none,Common,unlock,false,1,0
+3253,Fast 4WD: Sleek,Decal,none,none,0,none,Common,unlock,false,1,0
+3254,Fast 4WD: Hot Wheels Race Team,Decal,none,none,0,none,Common,unlock,false,1,0
+3257,Fast 4WD: Diecast,Decal,none,none,0,none,Common,unlock,false,1,0
+3312,Maverick: Stripe Racer,Decal,none,none,0,none,Common,unlock,false,1,0
+3319,Maverick: Block Trim,Decal,none,none,0,none,Common,unlock,false,1,0
+3321,Maverick: Baller,Decal,none,none,0,none,Common,unlock,false,1,0
+3332,Gazella GT: 50th Anniversary,Decal,none,none,0,none,Common,unlock,false,1,0
+3339,Gazella GT: Sleek,Decal,none,none,0,none,Common,unlock,false,1,0
+3395,MR11: Sleek,Decal,none,none,0,none,Common,unlock,false,1,0
+3398,Gazella GT: Diecast,Decal,none,none,0,none,Common,unlock,false,1,0
+3399,Gazella GT: Hot Wheels Race Team,Decal,none,none,0,none,Common,unlock,false,1,0
+3409,Bossfight,Antenna,none,none,0,none,Common,unlock,false,1,0
+3410,Darren Styles,Antenna,none,none,0,none,Common,unlock,false,1,0
+3411,Dougal,Antenna,none,none,0,none,Common,unlock,false,1,0
+3412,Gammer,Antenna,none,none,0,none,Common,unlock,false,1,0
+3413,Infected Mushroom,Antenna,none,none,0,none,Common,unlock,false,1,0
+3414,MUZZ,Antenna,none,none,0,none,Common,unlock,false,1,0
+3415,Pixel Terror,Antenna,none,none,0,none,Common,unlock,false,1,0
+3416,Sara Skinner,Antenna,none,none,0,none,Common,unlock,false,1,0
+3417,Tokyo Machine,Antenna,none,none,0,none,Common,unlock,false,1,0
+3436,Diestro,Engine Audio,none,none,0,none,Common,unlock,false,1,0
+3476,Nimbus: Fornax,Decal,none,none,0,none,Common,unlock,false,1,0
+3477,Nimbus: Draft Racer,Decal,none,none,0,none,Common,unlock,false,1,0
+3481,Nimbus: Crispi,Decal,none,none,0,none,Common,unlock,false,1,0
+3484,Nimbus: Austromancer,Decal,none,none,0,none,Common,unlock,false,1,0
+3489,Nimbus: Windstripe,Decal,none,none,0,none,Common,unlock,false,1,0
+3491,Nimbus: Skyrider,Decal,none,none,0,none,Common,unlock,false,1,0
+3526,McLaren Custom,Paint Finish,none,none,0,none,Common,unlock,false,1,0
+3527,McLaren Custom,Paint Finish,none,none,0,none,Common,unlock,false,1,0
+3532,Diestro: Old Flame,Decal,none,none,0,none,Common,unlock,false,1,0
+3533,Diestro: Lozano,Decal,none,none,0,none,Common,unlock,false,1,0
+3534,Diestro: Sooo Fly,Decal,none,none,0,none,Common,unlock,false,1,0
+3535,Diestro: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+3536,Diestro: Stuntman,Decal,none,none,0,none,Common,unlock,false,1,0
+3537,Diestro: Chitchat,Decal,none,none,0,none,Common,unlock,false,1,0
+3602,Artemis: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+3603,Artemis: Pegasus,Decal,none,none,0,none,Common,unlock,false,1,0
+3616,Artemis: Cadevco,Decal,none,none,0,none,Common,unlock,false,1,0
+3618,Artemis: Leto Lines,Decal,none,none,0,none,Common,unlock,false,1,0
+3623,Artemis: Splat,Decal,none,none,0,none,Common,unlock,false,1,0
+3706,CloudNone,Antenna,none,none,0,none,Common,unlock,false,1,0
+3707,Grant,Antenna,none,none,0,none,Common,unlock,false,1,0
+3708,Hyper Potions,Antenna,none,none,0,none,Common,unlock,false,1,0
+3709,Nokae,Antenna,none,none,0,none,Common,unlock,false,1,0
+3710,Rogue,Antenna,none,none,0,none,Common,unlock,false,1,0
+3711,SMLE,Antenna,none,none,0,none,Common,unlock,false,1,0
+3882,Guardian: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+3934,Major League Baseball,Antenna,none,none,0,none,Common,unlock,false,1,0
+3942,Major League Baseball,Topper,none,none,0,none,Common,unlock,false,1,0
+3947,Major League Baseball,Player Banner,none,none,0,none,Common,unlock,false,1,0
+3968,Guardian: O.H.W.,Decal,none,none,0,none,Common,unlock,false,1,0
+3970,Guardian: Vigilance,Decal,none,none,0,none,Common,unlock,false,1,0
+4034,Insidio: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+4035,Insidio: Supercool,Decal,none,none,0,none,Common,unlock,false,1,0
+4056,Insidio: Chequered Past,Decal,none,none,0,none,Common,unlock,false,1,0
+4134,K.I.T.T.,Wheels,none,none,0,none,Common,unlock,false,1,0
+4156,FWLR,Antenna,none,none,0,none,Common,unlock,false,1,0
+4157,Notaker,Antenna,none,none,0,none,Common,unlock,false,1,0
+4167,Chinese Taipei,Antenna,none,none,0,none,Common,unlock,false,1,0
+4188,K.I.T.T.,Rocket Boost,none,none,0,none,Common,unlock,false,1,0
+4205,Julian Calor,Antenna,none,none,0,none,Common,unlock,false,1,0
+4206,Snavs,Antenna,none,none,0,none,Common,unlock,false,1,0
+4207,Xilent,Antenna,none,none,0,none,Common,unlock,false,1,0
+4215,Ecto-1,Wheels,none,none,0,none,Common,unlock,false,1,0
+4285,Fennec: Nitty-Gritty,Decal,none,none,0,none,Common,unlock,false,1,0
+4286,Fennec: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+4290,Fennec: Ribbon HBF,Decal,none,none,0,none,Common,unlock,false,1,0
+4291,Fennec: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+4292,Fennec: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+4293,Fennec: Bluster Bar,Decal,none,none,0,none,Common,unlock,false,1,0
+4295,Fennec,Engine Audio,none,none,0,none,Common,unlock,false,1,0
+4321,Mudcat: Wide Stripe,Decal,none,none,0,none,Common,unlock,false,1,0
+4322,Mudcat: Blockout,Decal,none,none,0,none,Common,unlock,false,1,0
+4325,Mudcat: Winner's Circle,Decal,none,none,0,none,Common,unlock,false,1,0
+4329,Mudcat: Racing Bolt,Decal,none,none,0,none,Common,unlock,false,1,0
+4332,Mudcat: Drifter,Decal,none,none,0,none,Common,unlock,false,1,0
+4348,7 Minutes Dead,Antenna,none,none,0,none,Common,unlock,false,1,0
+4349,DESERT STAR,Antenna,none,none,0,none,Common,unlock,false,1,0
+4350,Ephixa,Antenna,none,none,0,none,Common,unlock,false,1,0
+4351,Televisor,Antenna,none,none,0,none,Common,unlock,false,1,0
+4352,Tut Tut Child,Antenna,none,none,0,none,Common,unlock,false,1,0
+4353,Varien,Antenna,none,none,0,none,Common,unlock,false,1,0
+4354,WRLD,Antenna,none,none,0,none,Common,unlock,false,1,0
+4403,Sentinel: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+4404,Sentinel: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+4405,Sentinel: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+4407,Sentinel: MangaTec,Decal,none,none,0,none,Common,unlock,false,1,0
+4408,Sentinel: Sideline,Decal,none,none,0,none,Common,unlock,false,1,0
+4409,Sentinel: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+4542,Habstrakt,Antenna,none,none,0,none,Common,unlock,false,1,0
+4543,Half an Orange,Antenna,none,none,0,none,Common,unlock,false,1,0
+4544,Juelz,Antenna,none,none,0,none,Common,unlock,false,1,0
+4545,Tails,Antenna,none,none,0,none,Common,unlock,false,1,0
+4546,Throttle,Antenna,none,none,0,none,Common,unlock,false,1,0
+4547,Tony Romera,Antenna,none,none,0,none,Common,unlock,false,1,0
+4594,Slushii,Antenna,none,none,0,none,Common,unlock,false,1,0
+4614,Chikara: Stargazer,Decal,none,none,0,none,Common,unlock,false,1,0
+4618,Chikara: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+4655,Komodo: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+4656,Komodo: Fractal Point,Decal,none,none,0,none,Common,unlock,false,1,0
+4658,Komodo: Fractured,Decal,none,none,0,none,Common,unlock,false,1,0
+4663,Komodo: Drop Zone,Decal,none,none,0,none,Common,unlock,false,1,0
+4670,Chikara: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+4672,Chikara: Ninetails,Decal,none,none,0,none,Common,unlock,false,1,0
+4680,Komodo: Zhangtek,Decal,none,none,0,none,Common,unlock,false,1,0
+4738,Komodo: Okapi,Decal,none,none,0,none,Common,unlock,false,1,0
+4767,Direct,Antenna,none,none,0,none,Common,unlock,false,1,0
+4768,Kayzo,Antenna,none,none,0,none,Common,unlock,false,1,0
+4949,Ronin: Retrofade,Decal,none,none,0,none,Common,unlock,false,1,0
+4950,Ronin: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+4951,Ronin: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+4952,Ronin: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+4970,Battle Bus,Wheels,none,none,0,none,Common,unlock,false,1,0
+4975,Battle Balloon,Antenna,none,none,0,none,Common,unlock,false,1,0
+4996,Insidio: Metro,Decal,none,none,0,none,Common,unlock,false,1,0
+5049,Tyranno: Hotness,Decal,none,none,0,none,Common,unlock,false,1,0
+5053,Tyranno: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+5100,Conro,Antenna,none,none,0,none,Common,unlock,false,1,0
+5101,FOOL,Antenna,none,none,0,none,Common,unlock,false,1,0
+5102,Vindata,Antenna,none,none,0,none,Common,unlock,false,1,0
+5216,Glacier,Antenna,none,none,0,none,Common,unlock,false,1,0
+5217,Dexter King,Antenna,none,none,0,none,Common,unlock,false,1,0
+5221,Harbinger: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+5236,Harbinger: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+5238,Danyka Nadeau,Antenna,none,none,0,none,Common,unlock,false,1,0
+5239,Nick Smith,Antenna,none,none,0,none,Common,unlock,false,1,0
+5255,Harbinger: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+5268,Peregrine TT: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+5285,Peregrine TT: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+5286,Peregrine TT: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+5315,Peregrine TT: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+5324,Lost Civilization,Antenna,none,none,0,none,Common,unlock,false,1,0
+5355,ATTLAS,Antenna,none,none,0,none,Common,unlock,false,1,0
+5356,Feed Me,Antenna,none,none,0,none,Common,unlock,false,1,0
+5357,Feint,Antenna,none,none,0,none,Common,unlock,false,1,0
+5358,Fox Stevenson,Antenna,none,none,0,none,Common,unlock,false,1,0
+5359,MYLK,Antenna,none,none,0,none,Common,unlock,false,1,0
+5360,Tokyo Rose,Antenna,none,none,0,none,Common,unlock,false,1,0
+5476,R3MX: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+5486,R3MX: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+5495,R3MX: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+5499,R3MX: Tech,Decal,none,none,0,none,Common,unlock,false,1,0
+5553,Athena,Antenna,none,none,0,none,Common,unlock,false,1,0
+5554,FLuuMP,Antenna,none,none,0,none,Common,unlock,false,1,0
+5555,JohnnyBoi_i,Antenna,none,none,0,none,Common,unlock,false,1,0
+5556,JZR,Antenna,none,none,0,none,Common,unlock,false,1,0
+5557,Linkuru,Antenna,none,none,0,none,Common,unlock,false,1,0
+5558,MERTZY,Antenna,none,none,0,none,Common,unlock,false,1,0
+5559,musty,Antenna,none,none,0,none,Common,unlock,false,1,0
+5560,PhantomACE,Antenna,none,none,0,none,Common,unlock,false,1,0
+5561,SunlessKhan,Antenna,none,none,0,none,Common,unlock,false,1,0
+5623,007's Aston Martin DB5,Wheels,none,none,0,none,Common,unlock,false,1,0
+5640,Lethamyr,Antenna,none,none,0,none,Common,unlock,false,1,0
+5648,Beauz,Antenna,none,none,0,none,Common,unlock,false,1,0
+5649,Au5,Antenna,none,none,0,none,Common,unlock,false,1,0
+5650,Chime,Antenna,none,none,0,none,Common,unlock,false,1,0
+5651,Jack Newsome,Antenna,none,none,0,none,Common,unlock,false,1,0
+5652,Rome In Silver,Antenna,none,none,0,none,Common,unlock,false,1,0
+5653,Sullivan King,Antenna,none,none,0,none,Common,unlock,false,1,0
+5657,007's Aston Martin DB5,Paint Finish,none,none,0,none,Common,unlock,false,1,0
+5686,Angel Wings (feat. Avianna Acid),Player Anthem,none,none,0,none,Common,unlock,false,1,0
+5687,Flying Forever (feat. Morgan Perry),Player Anthem,none,none,0,none,Common,unlock,false,1,0
+5688,I Can Be (feat. Crysta),Player Anthem,none,none,0,none,Common,unlock,false,1,0
+5691,Love Thru The Night (feat. Morgan Perry),Player Anthem,none,none,0,none,Common,unlock,false,1,0
+5692,We Speak Chinese,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+5705,Dingo: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+5715,Solar Eclipses,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+5716,Rocket League OST Vol. 1,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+5717,Rocket League OST Vol. 2,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+5718,Season 2,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+5720,Esports,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+5724,Kaskade X RL EP,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+5752,NFL Fan Pack,Decal,none,none,0,none,Common,unlock,false,1,0
+5771,Kaskade,Antenna,none,none,0,none,Common,unlock,false,1,0
+5809,Tygris: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+5811,Tygris: Full Speed,Decal,none,none,0,none,Common,unlock,false,1,0
+5812,Tygris: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+5818,Tygris: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+5861,Tyranno: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+5862,Tyranno: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+5876,RL X Monstercat 2021,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+5880,Fast & Furious Pontiac Fiero: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+5882,Fransis Derelle,Antenna,none,none,0,none,Common,unlock,false,1,0
+5886,Fast & Furious Pontiac Fiero: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+5907,Fast & Furious Pontiac Fiero: Circuit Pro,Decal,none,none,0,none,Common,unlock,false,1,0
+5948,Epic Audio Team,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+5969,Dingo: Dots,Decal,none,none,0,none,Common,unlock,false,1,0
+5970,Dingo: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+5971,Monstercat Silk,Antenna,none,none,0,none,Common,unlock,false,1,0
+5982,Lamborghini Hurac�n STO v1,Wheels,none,none,0,none,Common,unlock,false,1,0
+5997,Watch Me Go,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+6009,Dingo: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+6030,Fast & Furious Pontiac Fiero,Wheels,none,none,0,none,Common,unlock,false,1,0
+6101,Love ISLV,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+6104,Outlaw: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+6105,Outlaw: Block Trim,Decal,none,none,0,none,Common,unlock,false,1,0
+6120,Outlaw: Atwixt,Decal,none,none,0,none,Common,unlock,false,1,0
+6125,Fast & Furious Pontiac Fiero: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+6126,Fast & Furious Pontiac Fiero: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+6150,Monstercat 10 Year Anniversary,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+6154,Fast & Furious,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+6156,Radio Classics Vol. 1,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+6168,Outlaw: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+6180,KUURO,Antenna,none,none,0,none,Common,unlock,false,1,0
+6181,hayve,Antenna,none,none,0,none,Common,unlock,false,1,0
+6182,Haneri,Antenna,none,none,0,none,Common,unlock,false,1,0
+6184,Arielle Maren,Antenna,none,none,0,none,Common,unlock,false,1,0
+6185,AK,Antenna,none,none,0,none,Common,unlock,false,1,0
+6186,A.M.R,Antenna,none,none,0,none,Common,unlock,false,1,0
+6187,YUAN,Antenna,none,none,0,none,Common,unlock,false,1,0
+6188,Vintage & Morelli,Antenna,none,none,0,none,Common,unlock,false,1,0
+6189,PROFF,Antenna,none,none,0,none,Common,unlock,false,1,0
+6211,Shingo Nakamura,Antenna,none,none,0,none,Common,unlock,false,1,0
+6212,Ellis,Antenna,none,none,0,none,Common,unlock,false,1,0
+6213,Hoaprox,Antenna,none,none,0,none,Common,unlock,false,1,0
+6224,Saxsquatch,Antenna,none,none,0,none,Common,unlock,false,1,0
+6225,Dyro,Antenna,none,none,0,none,Common,unlock,false,1,0
+6230,Emily Vaughn,Antenna,none,none,0,none,Common,unlock,false,1,0
+6254,D R I F T,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+6596,HHM 2021,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+6694,OBLVYN,Antenna,none,none,0,none,Common,unlock,false,1,0
+6695,Caster,Antenna,none,none,0,none,Common,unlock,false,1,0
+6696,Sabai,Antenna,none,none,0,none,Common,unlock,false,1,0
+6752,McLaren 765LT,Wheels,none,none,0,none,Common,unlock,false,1,0
+6791,Jackal: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+6795,Jackal: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+6796,Jackal: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+6800,Jackal: Midline,Decal,none,none,0,none,Common,unlock,false,1,0
+6890,Lights, Camera, Action!,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+6892,Rocket League Sideswipe,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+6915,WHIPPED CREAM,Antenna,none,none,0,none,Common,unlock,false,1,0
+6916,JTRoach,Antenna,none,none,0,none,Common,unlock,false,1,0
+6917,RUNN,Antenna,none,none,0,none,Common,unlock,false,1,0
+6980,Nexus,Engine Audio,none,none,0,none,Common,unlock,false,1,0
+6981,RLCS,Decal,none,none,0,none,Common,unlock,false,1,0
+6982,RLCS '21-'22,Decal,none,none,0,none,Common,unlock,false,1,0
+7010,Tonga Vol. 1,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+7055,Nexus: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+7060,Nexus: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+7061,Nexus: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+7068,2021 NFL Fan Pass,Decal,none,none,0,none,Common,unlock,false,1,0
+7069,2021 NFL Fan Pass,Topper,none,none,0,none,Common,unlock,false,1,0
+7070,2021 NFL Fan Pass,Player Banner,none,none,0,none,Common,unlock,false,1,0
+7072,2021 NFL Fan Pass,Antenna,none,none,0,none,Common,unlock,false,1,0
+7083,Nexus: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+7089,E.V.,Rocket Boost,none,none,0,none,Common,unlock,false,1,0
+7197,Aether,Antenna,none,none,0,none,Common,unlock,false,1,0
+7199,ARMNHMR,Antenna,none,none,0,none,Common,unlock,false,1,0
+7200,Bound to Divide,Antenna,none,none,0,none,Common,unlock,false,1,0
+7201,Eminence,Antenna,none,none,0,none,Common,unlock,false,1,0
+7202,Floa,Antenna,none,none,0,none,Common,unlock,false,1,0
+7203,Hausman,Antenna,none,none,0,none,Common,unlock,false,1,0
+7204,Hiski,Antenna,none,none,0,none,Common,unlock,false,1,0
+7205,Katrine Stenbekk,Antenna,none,none,0,none,Common,unlock,false,1,0
+7206,Kobana,Antenna,none,none,0,none,Common,unlock,false,1,0
+7207,Lovlee,Antenna,none,none,0,none,Common,unlock,false,1,0
+7208,Odsen,Antenna,none,none,0,none,Common,unlock,false,1,0
+7209,Weston & Teston,Antenna,none,none,0,none,Common,unlock,false,1,0
+7217,Neon Nights Ft. Grimes 2022,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+7346,007's Aston Martin DBS,Paint Finish,none,none,0,none,Common,unlock,false,1,0
+7361,Federation Decals,Decal,none,none,0,none,Common,unlock,false,1,0
+7393,Mamba: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+7394,Mamba: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+7396,Mamba: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+7397,Mamba: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+7416,Dark Knight Matte,Paint Finish,none,none,0,none,Common,unlock,false,1,0
+7417,Batmobile (2022),Wheels,none,none,0,none,Common,unlock,false,1,0
+7420,Batmobile (2022),Rocket Boost,none,none,0,none,Common,unlock,false,1,0
+7422,Batmobile (2022),Trail,none,none,0,none,Common,unlock,false,1,0
+7426,Mr FijiWiji,Antenna,none,none,0,none,Common,unlock,false,1,0
+7427,R7CKY,Antenna,none,none,0,none,Common,unlock,false,1,0
+7454,Nomad: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+7455,Nomad: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+7457,Nomad: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+7458,Nomad: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+7466,Behind The Samples,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+7516,Lamborghini Countach LPI 800-4,Wheels,none,none,0,none,Common,unlock,false,1,0
+7520,RLCS 2021-22,Goal Explosion,none,none,0,none,Common,unlock,false,1,0
+7534,Behind the Scenes,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+7541,Candyland,Antenna,none,none,0,none,Common,unlock,false,1,0
+7544,GG Magree,Antenna,none,none,0,none,Common,unlock,false,1,0
+7617,Madness,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+7625,Where U Are [Deluxe],Player Anthem,none,none,0,none,Common,unlock,false,1,0
+7655,Maestro: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+7656,Maestro: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+7657,Maestro: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+7658,Maestro: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+7697,Whiplash,Wheels,none,none,0,none,Common,unlock,false,1,0
+7705,Voltaic Valley,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+7711,Catharsis,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+7742,Shine Through,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+7745,Curbi,Antenna,none,none,0,none,Common,unlock,false,1,0
+7746,Bishu,Antenna,none,none,0,none,Common,unlock,false,1,0
+7747,Nurko,Antenna,none,none,0,none,Common,unlock,false,1,0
+7748,Papa Khan,Antenna,none,none,0,none,Common,unlock,false,1,0
+7749,Silent Child,Antenna,none,none,0,none,Common,unlock,false,1,0
+7750,helloworld,Antenna,none,none,0,none,Common,unlock,false,1,0
+7835,Bleu Clair,Antenna,none,none,0,none,Common,unlock,false,1,0
+7836,Drinks On Me,Antenna,none,none,0,none,Common,unlock,false,1,0
+7837,Godlands,Antenna,none,none,0,none,Common,unlock,false,1,0
+7838,OddKidOut,Antenna,none,none,0,none,Common,unlock,false,1,0
+7955,RL X Monstercat 2022,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+7963,Honda Civic Type R: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+7964,Honda Civic Type R: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+7965,Honda Civic Type R: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+7966,Honda Civic Type R: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+8141,Fiesta Latina 2022,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+8318,Nike Federation Decals,Decal,none,none,0,none,Common,unlock,false,1,0
+8331,Haunted Hallows,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+8336,Federation Banners,Player Banner,none,none,0,none,Common,unlock,false,1,0
+8338,RLCS '22-'23,Decal,none,none,0,none,Common,unlock,false,1,0
+8339,Champ Anthems,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+8376,RLCS 22-23,Player Banner,none,none,0,none,Common,unlock,false,1,0
+8406,boler mani,Antenna,none,none,0,none,Common,unlock,false,1,0
+8407,Dustycloud,Antenna,none,none,0,none,Common,unlock,false,1,0
+8408,Kage,Antenna,none,none,0,none,Common,unlock,false,1,0
+8409,Sol Rising,Antenna,none,none,0,none,Common,unlock,false,1,0
+8410,Tisoki,Antenna,none,none,0,none,Common,unlock,false,1,0
+8412,Saint Punk,Antenna,none,none,0,none,Common,unlock,false,1,0
+8422,Asdek,Antenna,none,none,0,none,Common,unlock,false,1,0
+8426,Whiplash: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+8427,Whiplash: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+8428,Whiplash: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+8430,Whiplash: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+8432,Season Themes,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+8477,Dada Life,Antenna,none,none,0,none,Common,unlock,false,1,0
+8478,Going Quantum,Antenna,none,none,0,none,Common,unlock,false,1,0
+8479,No Mana,Antenna,none,none,0,none,Common,unlock,false,1,0
+8517,Emperor: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+8518,Emperor: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+8519,Emperor: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+8520,Emperor: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+8534,RLCS 22-23,Goal Explosion,none,none,0,none,Common,unlock,false,1,0
+8554,Bugatti Centodieci,Wheels,none,none,0,none,Common,unlock,false,1,0
+8577,Frosty Fest 2022 feat. Lofi Girl,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+8627,zensei,Antenna,none,none,0,none,Common,unlock,false,1,0
+8628,YULA,Antenna,none,none,0,none,Common,unlock,false,1,0
+8759,Neon Nights 2023 ft. Cochise,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+8835,ShockOne,Antenna,none,none,0,none,Common,unlock,false,1,0
+8836,SKYLER,Antenna,none,none,0,none,Common,unlock,false,1,0
+8865,Warner Case,Antenna,none,none,0,none,Common,unlock,false,1,0
+8866,Bhaskar,Antenna,none,none,0,none,Common,unlock,false,1,0
+8885,Volkswagen Golf GTI: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+8886,Volkswagen Golf GTI: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+8887,Volkswagen Golf GTI: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+8888,Volkswagen Golf GTI: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+8922,Whip,Antenna,none,none,0,none,Common,unlock,false,1,0
+8956,Redline: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+8957,Redline: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+8958,Redline: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+8964,Do These Stories Make Me Human?,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+8972,Lane Boy,Antenna,none,none,0,none,Common,unlock,false,1,0
+8988,ORACLE,Antenna,none,none,0,none,Common,unlock,false,1,0
+8989,Miles Away,Antenna,none,none,0,none,Common,unlock,false,1,0
+8992,LissA,Antenna,none,none,0,none,Common,unlock,false,1,0
+9003,Redline: Tech,Decal,none,none,0,none,Common,unlock,false,1,0
+9057,Fast & Furious Dodge Charger SRT Hellcat: Alameda Twin,Decal,none,none,0,none,Common,unlock,false,1,0
+9058,Fast & Furious Dodge Charger SRT Hellcat: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+9062,Fast & Furious Dodge Charger SRT Hellcat: Sinclair,Decal,none,none,0,none,Common,unlock,false,1,0
+9063,Fast & Furious Dodge Charger SRT Hellcat: Wheelman,Decal,none,none,0,none,Common,unlock,false,1,0
+9099,Fast & Furious Dodge Charger SRT Hellcat: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+9101,Star Wars,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+9155,Holochrome,Antenna,none,none,0,none,Common,unlock,false,1,0
+9158,LTN,Antenna,none,none,0,none,Common,unlock,false,1,0
+9161,Ghostbeat,Antenna,none,none,0,none,Common,unlock,false,1,0
+9186,Jodie Knight,Antenna,none,none,0,none,Common,unlock,false,1,0
+9187,Finding Mero,Antenna,none,none,0,none,Common,unlock,false,1,0
+9206,Nissan Silvia: Flames,Decal,none,none,0,none,Common,unlock,false,1,0
+9208,Nissan Silvia: Lightning,Decal,none,none,0,none,Common,unlock,false,1,0
+9209,Nissan Silvia: Stripes,Decal,none,none,0,none,Common,unlock,false,1,0
+9222,SFX,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+9224,Nissan Silvia: Wings,Decal,none,none,0,none,Common,unlock,false,1,0
+9232,Transformers,Player Anthem,none,none,0,none,Common,unlock,false,1,0
+9335,Afterclapp,Antenna,none,none,0,none,Common,unlock,false,1,0
+9336,Boslen,Antenna,none,none,0,none,Common,unlock,false,1,0
+9337,Carola,Antenna,none,none,0,none,Common,unlock,false,1,0
+9338,Circadian,Antenna,none,none,0,none,Common,unlock,false,1,0
+9340,CHYL,Antenna,none,none,0,none,Common,unlock,false,1,0
+9341,LUX,Antenna,none,none,0,none,Common,unlock,false,1,0
+5075,Chopper EG,Wheels,none,none,0,none,Import,?INT?TAGame.ProductSeries.Series1015?,false,1,10039428110
+2904,Sun Ray,Rocket Boost,none,none,0,none,Import,?INT?TAGame.ProductSeries.Series1035?,true,2,10039428221
+2047,Hot Rocks,Trail,none,none,0,none,Very rare,?INT?TAGame.ProductSeries.Series1035?,true,1,10039428235
+5060,AquaDome Buoy,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series905?,true,1,10073506700
+4995,Octane: SARP Stripe,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series906?,true,1,10184526717
+36,Flamethrower,Rocket Boost,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series862?,true,1,10184627943
+360,Bender,Wheels,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series863?,true,1,10184629831
+268,Corroded Metal,Paint Finish,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series865?,true,1,10184631949
+382,Falco,Wheels,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series866?,true,1,10184634007
+4794,Llama Flyer,Antenna,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series867?,false,1,10184645559
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series907?,false,1,10452803596
+5144,Momentum,Blueprint,none,none,0,none,Black market,Crate,true,1,10490446486
+5111,OGBP,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series908?,true,1,11301574026
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series123?,false,1,11788712186
+29,Hotshot,Body,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series861?,true,2,11788712396
+26,Gizmo,Body,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series864?,true,1,11788712404
+21,Backfire,Body,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series882?,true,1,11788712413
+33,Bubbles,Rocket Boost,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series883?,true,1,11788712419
+273,Matte,Paint Finish,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series884?,true,1,11788712427
+28,X-Devil,Body,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series885?,true,1,11788712439
+14,Smiley,Antenna,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series886?,true,1,11788712449
+380,Invader,Wheels,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series887?,true,2,11788712459
+24,Paladin,Body,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series888?,true,1,11788712472
+277,Semigloss,Paint Finish,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series889?,true,1,11788712487
+13,Skull,Antenna,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series890?,true,1,11788712498
+2435,Topographic,Player Banner,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series891?,true,1,11788712513
+381,Vortex,Wheels,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series892?,true,1,11788712523
+25,Road Hog,Body,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series893?,true,1,11788712533
+31,Venom,Body,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series894?,true,1,11788712540
+274,Metallic,Paint Finish,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series895?,true,1,11788712552
+368,Stern,Wheels,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series896?,true,1,11788712560
+16,Soccer Ball,Antenna,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series897?,true,1,11788712592
+228,Royal Crown,Topper,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series898?,true,1,11788712600
+403,Dominus,Body,none,none,0,none,Common,?INT?TAGame.ProductSeries.Series899?,true,1,11788712608
+4955,Wet Wash,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series909?,true,1,12981231157
+3240,XP Level 25,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series136?,false,1,12981243888
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series910?,false,1,12981253152
+4486,Faboo,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1107?,true,1,13101187840
+2985,SARPBC-10,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1643?,true,1,18613461739
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1234?,false,1,19367861137
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series124?,false,1,19493653572
+1704,Fiberboard,Paint Finish,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1305?,true,1,19493653581
+6235,Select Favorites,Blueprint,none,none,0,none,Import,Crate,true,1,19512556708
+5229,Harbinger: Quickline,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1306?,true,1,19606564970
+3243,XP Level 50,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series137?,false,1,20316254966
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1724?,false,1,20316254976
+5905,Auriga,Blueprint,none,none,0,none,Black market,Crate,true,1,20369408974
+1708,Chipboard,Paint Finish,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1726?,true,1,20380531106
+5822,NFL,Rocket Boost,none,none,0,none,Import,?INT?TAGame.ProductSeries.Series2149?,false,1,20496891190
+5144,Momentum,Blueprint,none,none,0,none,Black market,Crate,true,1,20731216978
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series125?,false,1,20748286792
+1871,Ripper: Stibium,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1728?,true,1,20761560390
+380,Invader,Wheels,Burnt Sienna,none,0,none,Very rare,Postgame,true,1,20761588054
+5144,Momentum,Blueprint,none,none,0,none,Black market,Crate,true,1,20787255663
+5610,Season 1,Blueprint,Titanium White,none,0,none,Black market,Crate,true,1,20811966574
+6164,Prickly Cactus,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1730?,true,1,20813496404
+5610,Season 1,Blueprint,none,none,0,none,Import,Crate,true,1,20822624275
+3027,Road Hog: Watermelon,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1732?,true,1,20824033872
+1856,J�ger 619,Body,none,none,0,none,Import,Postgame,true,1,20824426256
+5144,Momentum,Blueprint,none,MVPs,0,Paragon,Very rare,Crate,true,1,20837799543
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2142?,false,1,20837955745
+4974,Dominus: Asymmetric,Decal,none,TurtleGoals,0,Turtle,Uncommon,Accolade IV,false,1,20840206908
+5765,Season 2,Blueprint,none,none,0,none,Black market,Crate,true,1,20840220450
+5905,Auriga,Blueprint,none,Clears,0,Sweeper,Import,Crate,true,1,20840222910
+5610,Season 1,Blueprint,none,none,0,none,Import,Crate,true,1,20905919448
+6882,007's Aston Martin DB5,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2165?,false,1,20906675779
+6902,Agent 007,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2164?,false,1,20906676711
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2166?,false,1,20906677413
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1749?,false,1,20906926432
+3244,XP Level 75,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series138?,false,1,20948596585
+5144,Momentum,Blueprint,none,none,0,none,Rare,Crate,true,1,20950358307
+5065,Aftershock: Clipper,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1734?,true,1,20964605896
+5765,Season 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,20966204570
+6261,Acero-Florentina,Wheels,none,none,0,none,Very rare,?INT?TAGame.ProductSeries.Series544?,false,1,20978775992
+6591,Loca,Player Anthem,none,none,0,none,Very rare,?INT?TAGame.ProductSeries.Series544?,false,1,20978775993
+6594,So Good,Player Anthem,none,none,0,none,Very rare,?INT?TAGame.ProductSeries.Series544?,false,1,20978775994
+6595,We Own The Night,Player Anthem,none,none,0,none,Very rare,?INT?TAGame.ProductSeries.Series544?,false,1,20978775995
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series126?,false,1,20992566188
+2561,Esper: Eye Opener,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1736?,true,1,20992566194
+5610,Season 1,Blueprint,none,none,0,none,Import,Crate,true,1,20993529307
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2163?,false,1,21015709077
+5765,Season 2,Blueprint,none,none,0,none,Import,Crate,true,1,21016795016
+6833,Dominus: Joker,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2152?,false,1,21016811611
+6829,Harley Quinn,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2154?,false,1,21016812814
+6880,Joker,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2156?,false,1,21016814325
+6742,Poison Ivy,Rocket Boost,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2158?,false,1,21016815756
+6801,Batman,Rocket Boost,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2160?,false,1,21016817240
+6913,Harley Quinn,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2162?,false,1,21016820652
+6881,Batman,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2153?,false,1,21016822941
+5765,Season 2,Blueprint,none,TurtleGoals,0,Turtle,Import,Crate,true,1,21044947122
+6901,Batman 1989,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2155?,false,1,21045168934
+6877,Merc: Gotham's Finest,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2157?,false,1,21045170164
+232,Halo,Topper,none,none,0,none,Uncommon,Postgame,true,1,21049696724
+5610,Season 1,Blueprint,none,none,0,none,Very rare,Crate,true,1,21068786302
+5610,Season 1,Blueprint,none,TurtleGoals,0,Turtle,Very rare,Crate,true,1,21093583321
+5610,Season 1,Blueprint,none,none,0,none,Import,Crate,true,1,21100144557
+6810,Mr. Freeze,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2161?,false,1,21100609447
+6846,Demon Disc EG,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2151?,true,1,21122854326
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,21123016028
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1738?,false,1,21138059368
+5765,Season 2,Blueprint,none,Centers,0,Tactician,Rare,Crate,true,1,21198414492
+5465,Twisty-Sweet,Trail,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1740?,true,1,21199301584
+5144,Momentum,Blueprint,none,EpicSaves,0,Guardian,Rare,Crate,true,1,21219116885
+5144,Momentum,Blueprint,none,none,0,none,Import,Crate,true,1,21234111507
+1300,Road Hog XL,Body,Sky Blue,none,0,none,Import,?INT?TAGame.ProductSeries.Series2144?,true,1,21237361542
+1950,Yuzo,Wheels,Sky Blue,none,0,none,Very rare,?INT?TAGame.ProductSeries.Series2144?,true,1,21237361543
+1542,Hypernova,Rocket Boost,none,none,0,none,Import,?INT?TAGame.ProductSeries.Series2144?,true,1,21237361545
+1898,Lightspeed,Trail,none,none,0,none,Very rare,?INT?TAGame.ProductSeries.Series2144?,true,1,21237361546
+1293,Road Hog XL: Kinda Koi,Decal,Sky Blue,none,0,none,Rare,?INT?TAGame.ProductSeries.Series2144?,false,1,21237361547
+4067,Ectoplasm,Rocket Boost,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series880?,true,1,21238817306
+4013,Ghostbusters,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1029?,true,1,21238817308
+5084,League Shield,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series917?,true,1,21238817309
+5267,3-Lobe,Wheels,Grey,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1125?,true,1,21238817311
+4962,Ruinator,Wheels,Black,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1765?,true,1,21238817315
+6200,Gadabout: Inverted,Wheels,Orange,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1799?,true,1,21238817321
+5765,Season 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,21239042613
+5144,Momentum,Blueprint,none,none,0,none,Import,Crate,true,1,21241210437
+5610,Season 1,Blueprint,Sky Blue,none,0,none,Rare,Crate,true,1,21313025195
+5765,Season 2,Blueprint,Titanium White,none,0,none,Rare,Crate,true,1,21336403796
+4233,Buckboard,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1742?,true,1,21337261241
+4981,Light Show,Goal Explosion,Pink,EpicSaves,82,Skillful Guardian,Limited,?INT?TAGame.ProductSeries.Series1125?,true,1,21337334645
+3872,Temple Guardian,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1187?,true,1,21337604488
+4824,EQ-RL,Animated Decal,Cobalt,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1125?,true,1,21337604490
+5144,Momentum,Blueprint,none,none,0,none,Import,Crate,true,1,21338132209
+5905,Auriga,Blueprint,none,none,0,none,Import,Crate,true,1,21523780630
+5610,Season 1,Blueprint,none,Saves,0,Goalkeeper,Import,Crate,true,1,21537398100
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series127?,false,1,21537398119
+3245,XP Level 100,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series139?,false,1,21537398120
+5905,Auriga,Blueprint,none,none,0,none,Exotic,Crate,true,1,21558018026
+5765,Season 2,Blueprint,none,Juggles,0,Juggler,Rare,Crate,true,1,21558634405
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,21559500275
+5765,Season 2,Blueprint,none,none,0,none,Rare,Crate,true,1,21572357474
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,21581867522
+5610,Season 1,Blueprint,Burnt Sienna,none,0,none,Very rare,Crate,true,1,21584073688
+5765,Season 2,Blueprint,none,none,0,none,Rare,Crate,true,1,21584871292
+5765,Season 2,Blueprint,none,none,0,none,Rare,Crate,true,1,21599621505
+5905,Auriga,Blueprint,none,LongGoals,0,Sniper,Very rare,Crate,true,1,21602423826
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,21634232340
+5144,Momentum,Blueprint,none,none,0,none,Very rare,Crate,true,1,21635245280
+5610,Season 1,Blueprint,none,LongGoals,0,Sniper,Import,Crate,true,1,21639217522
+5144,Momentum,Blueprint,none,none,0,none,Black market,Crate,true,1,21658114542
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,21658118113
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,21658119902
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,21658313682
+5144,Momentum,Blueprint,none,none,0,none,Very rare,Crate,true,1,21660418903
+5610,Season 1,Blueprint,Pink,none,0,none,Import,Crate,true,1,21661044345
+5144,Momentum,Blueprint,none,none,0,none,Very rare,Crate,true,1,21677812813
+5765,Season 2,Blueprint,none,none,0,none,Rare,Crate,true,1,21698012595
+6252,H O L D O N,Player Anthem,none,none,0,none,Rare,Accolade IV,false,1,21709083934
+5610,Season 1,Blueprint,none,Centers,0,Tactician,Very rare,Crate,true,1,21709379691
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2301?,false,1,21710272855
+5610,Season 1,Blueprint,Purple,none,0,none,Exotic,Crate,true,1,21710792276
+3753,Paper-Cut,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1190?,true,1,21712456283
+6200,Gadabout: Inverted,Wheels,Cobalt,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1818?,true,1,21712456284
+6192,Sea Mine: Schematized,Wheels,none,none,0,none,Import,Accolade IV,false,1,21727500091
+5610,Season 1,Blueprint,none,none,0,none,Exotic,Crate,true,1,21727903331
+6992,Radiohead,Antenna,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2171?,true,1,21753139132
+5352,Crosspiece,Wheels,Grey,none,0,none,Very rare,Accolade IV,false,1,21753140524
+5905,Auriga,Blueprint,Burnt Sienna,none,0,none,Rare,Crate,true,1,21753869997
+5765,Season 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,21767167345
+5765,Season 2,Blueprint,none,none,0,none,Rare,Crate,true,1,21767774523
+5905,Auriga,Blueprint,none,none,0,none,Import,Crate,true,1,21771142044
+5765,Season 2,Blueprint,none,none,0,none,Rare,Crate,true,1,21771826508
+5610,Season 1,Blueprint,none,none,0,none,Very rare,Crate,true,1,21785810985
+2626,Backfire: Cruster Buster,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2302?,true,1,21785810989
+5765,Season 2,Blueprint,none,none,0,none,Import,Crate,true,1,21786171565
+5610,Season 1,Blueprint,none,TurtleGoals,0,Turtle,Exotic,Crate,true,1,21790133629
+5905,Auriga,Blueprint,none,none,0,none,Exotic,Crate,true,1,21791106156
+5144,Momentum,Blueprint,none,none,0,none,Rare,Crate,true,1,21793638171
+5905,Auriga,Blueprint,none,BackwardsGoals,0,Show-off,Very rare,Crate,true,1,21853030170
+3246,XP Level 125,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series140?,false,1,21853302587
+5144,Momentum,Blueprint,none,none,0,none,Exotic,Crate,true,1,21866212044
+5144,Momentum,Blueprint,none,none,0,none,Rare,Crate,true,1,21869587811
+5905,Auriga,Blueprint,Sky Blue,none,0,none,Exotic,Crate,true,1,21917389200
+5144,Momentum,Blueprint,none,none,0,none,Very rare,Crate,true,1,21928963363
+5905,Auriga,Blueprint,Black,none,0,none,Rare,Crate,true,1,21941939952
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,21957386713
+5765,Season 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,21968542423
+6891,Water Resistant (feat. 8 4 8 5),Player Anthem,none,none,0,none,Rare,?INT?TAGame.ProductSeries.Series2696?,false,1,21971146492
+5905,Auriga,Blueprint,none,ShotsOnGoal,0,Striker,Very rare,Crate,true,1,21971669084
+5608,MTRX: Inverted,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2692?,false,1,21985981560
+4425,Gamepiece,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2304?,true,1,21986481998
+6922,Wow!,Goal Explosion,none,none,0,none,Exotic,?INT?TAGame.ProductSeries.Series2693?,false,1,22003427364
+5765,Season 2,Blueprint,none,AerialGoals,0,Aviator,Import,Crate,true,1,22003939060
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,22067751009
+5133,CDJ,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1116?,true,1,22067814377
+5193,Vaticinator,Animated Decal,Black,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1801?,true,1,22067814378
+5193,Vaticinator,Animated Decal,Forest Green,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1883?,true,1,22067814379
+5905,Auriga,Blueprint,Crimson,EpicSaves,0,Guardian,Very rare,Crate,true,1,22069519000
+6245,Twista: Inverted,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2328?,true,1,22157276448
+6217,Crescent Moon,Antenna,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2305?,true,1,22179840078
+5765,Season 2,Blueprint,none,none,0,none,Import,Crate,true,1,22180298069
+7077,Breakout: Reindeer Game,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2313?,false,1,22187020680
+4931,Flannel,Paint Finish,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2314?,false,1,22187023137
+4499,Ring-a-ling,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2322?,false,1,22187024951
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,22219203024
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2317?,false,1,22219207251
+3605,Octane: Naughty List,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2316?,false,1,22219209063
+6243,Nexus,Body,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2209?,false,1,22238861345
+6924,Aeronaut,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2210?,false,1,22238861346
+5487,Fissure,Trail,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2211?,true,1,22238861348
+6218,N-vader,Antenna,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2215?,false,1,22238861349
+7075,Nexus: Space Cadet,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2216?,false,1,22238861350
+5605,Optic,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2217?,false,1,22238861351
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2218?,false,1,22238861352
+4575,Starpower,Animated Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2219?,true,1,22238861353
+7074,Psynaut,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2221?,false,1,22238861355
+5321,Galaxial,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2223?,false,1,22238861356
+3915,Dominus: Kill Screen,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2224?,false,1,22238861357
+6276,Jet Fueled,Player Anthem,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2225?,false,1,22238861358
+2823,Circlet,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2226?,false,1,22238861359
+6987,Nexus: Sally,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2227?,false,1,22238861360
+6998,Corbital,Trail,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2228?,true,1,22238861362
+4487,Hotdog,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2229?,false,1,22238861363
+4980,Alloy,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2230?,false,1,22238861364
+267,Spacedirt,Paint Finish,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2231?,false,1,22238861365
+7000,Nexus: Lasertrap,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2232?,false,1,22238861366
+6997,Star Burst,Antenna,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2235?,false,1,22238890936
+6151,Mt. E,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2236?,false,1,22238893932
+6923,Gravitron,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2237?,false,1,22238897052
+4720,Dolphino,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2306?,true,1,22238901431
+6999,Nexus: Deceptor,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2238?,false,1,22238901437
+7051,Corbital,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2239?,false,1,22238904553
+4999,Y.O.U.,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2240?,true,1,22238945281
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,22239481843
+4639,Baroque,Paint Finish,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2241?,false,1,22239752264
+6925,Cold Shoulders,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2315?,false,1,22239801865
+7080,Dominus: Nutcracker,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2319?,false,1,22239802551
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2307?,false,1,22240149614
+5641,Iced Out,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2321?,false,1,22240335445
+6945,Pulser,Engine Audio,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2243?,false,1,22240337006
+7001,Nexus: Ombre,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2244?,false,1,22243520818
+3894,Drummer Hat,Topper,Titanium White,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2318?,false,1,22243525765
+5765,Season 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,22243755777
+3247,XP Level 150,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series141?,false,1,22244147277
+5754,Warp Wave,Trail,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2245?,true,1,22244147304
+5043,Mister Monsoon,Goal Explosion,Cobalt,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1004?,true,1,22245000056
+5610,Season 1,Blueprint,Titanium White,none,0,none,Import,Crate,true,1,22245226753
+6928,Holofield,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2247?,false,1,22247317581
+2815,Happy Whale,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2308?,true,1,22263047160
+5566,Pulsator,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2248?,false,1,22263047168
+4840,Wonderbolt,Animated Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2250?,false,1,22263285023
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,22263400743
+6705,Ms. Sweet Corn,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2251?,false,1,22263411439
+6942,Corbital,Rocket Boost,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2252?,true,1,22263530493
+3171,Hot Ice,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2309?,true,1,22263999581
+6926,Rockets Jr.,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2253?,false,1,22263999590
+4637,Outerworld,Paint Finish,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2254?,false,1,22264348141
+5765,Season 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,22264436680
+6995,Nexus: Martian Wind,Animated Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2255?,false,1,22264458547
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2310?,false,1,22264461256
+6921,Glonex,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2256?,false,1,22264461267
+7071,Nexus: MG-88,Animated Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2257?,false,1,22264782377
+5610,Season 1,Blueprint,none,none,0,none,Rare,Crate,true,1,22265634339
+4426,Blade Wave,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2311?,true,1,22266885912
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2259?,false,1,22266897421
+5905,Auriga,Blueprint,none,none,0,none,Import,Crate,true,1,22273305872
+4459,Enjin,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2261?,true,1,22273410354
+7058,Dominus: MG-88,Animated Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2262?,false,1,22293238708
+7076,Dorado,Blueprint,none,none,0,none,Rare,Crate,true,1,22293625380
+6250,N E X T 2,Player Anthem,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2263?,false,1,22293782842
+5765,Season 2,Blueprint,none,none,0,none,Exotic,Crate,true,1,22294510452
+4727,Accordion,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1110?,true,1,22297511551
+4261,Throned,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2264?,true,1,22311236825
+7054,Nexus: Huntress,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2265?,false,1,22311242337
+3748,Planetarium,Paint Finish,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2266?,false,1,22316736646
+3467,Snowstorm,Animated Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1137?,true,1,22316883311
+5193,Vaticinator,Animated Decal,Saffron,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1779?,true,1,22316883312
+5193,Vaticinator,Animated Decal,Burnt Sienna,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1790?,true,1,22316883313
+5193,Vaticinator,Animated Decal,Orange,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1824?,true,1,22316883314
+5193,Vaticinator,Animated Decal,Cobalt,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1835?,true,1,22316883316
+5193,Vaticinator,Animated Decal,Titanium White,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1842?,true,1,22316883317
+5193,Vaticinator,Animated Decal,Pink,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1857?,true,1,22316883319
+5193,Vaticinator,Animated Decal,Lime,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1895?,true,1,22316883320
+5193,Vaticinator,Animated Decal,Grey,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1903?,true,1,22316883321
+7076,Dorado,Blueprint,none,none,0,none,Very rare,Crate,true,1,22317179343
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2267?,false,1,22340961498
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,22506378389
+7047,Glonex: Holographic,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2269?,true,1,22506622787
+3248,XP Level 175,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series142?,false,1,22506951913
+5905,Auriga,Blueprint,none,none,0,none,Black market,Crate,true,1,22797400288
+6946,Nexus: Hyperspace,Animated Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2271?,false,1,22797400304
+6281,Phase-R,Rocket Boost,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2272?,true,1,22797435568
+1907,Sub-Zero,Goal Explosion,none,none,0,none,Black market,Postgame,true,1,22797486873
+6083,Neural Network,Animated Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2273?,true,1,22798923341
+7076,Dorado,Blueprint,Orange,LongGoals,0,Sniper,Exotic,Crate,true,1,22799305527
+7049,Enjin: Roasted,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2274?,true,1,22799305529
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2275?,false,1,22816487607
+5765,Season 2,Blueprint,none,none,0,none,Import,Crate,true,1,22836158594
+7003,Throned: Sacred,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2278?,true,1,22973931571
+7356,Octane: GRIMES,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2702?,false,1,22998088420
+7375,Fireworks (Multichrome),Animated Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2708?,false,1,22998088935
+6216,ThreeDee,Topper,Pink,none,0,none,Rare,Accolade V,false,1,23776499092
+6871,Hoot,Player Banner,none,none,0,none,Rare,Accolade V,false,1,23776499094
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2813?,false,1,23777168170
+5765,Season 2,Blueprint,none,none,0,none,Rare,Crate,true,1,23800803093
+5765,Season 2,Blueprint,none,none,0,none,Rare,Crate,true,1,23856490559
+7076,Dorado,Blueprint,none,none,0,none,Very rare,Crate,true,1,23865895696
+5905,Auriga,Blueprint,none,none,0,none,Exotic,Crate,true,1,23866364453
+5765,Season 2,Blueprint,none,none,0,none,Import,Crate,true,1,23886687842
+3448,Backfire: Greatgrid,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2814?,true,1,23887002006
+5765,Season 2,Blueprint,Orange,none,0,none,Import,Crate,true,1,23887198269
+5905,Auriga,Blueprint,none,Goals,0,Scorer,Very rare,Crate,true,1,23895456772
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,23895778144
+5765,Season 2,Blueprint,none,none,0,none,Rare,Crate,true,1,23898486275
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,23899040842
+7009,Windows Down,Player Anthem,none,none,0,none,Rare,Accolade VI,false,1,23905669518
+5905,Auriga,Blueprint,none,LongGoals,0,Sniper,Import,Crate,true,1,23905978017
+7173,Fornax,Blueprint,Lime,none,0,none,Rare,Crate,true,1,23909056064
+7463,Speedy Turtle,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2815?,true,1,23926090323
+7173,Fornax,Blueprint,Titanium White,MVPs,0,Paragon,Rare,Crate,true,1,23933526826
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3215?,false,1,23961356678
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,24044861057
+5905,Auriga,Blueprint,Cobalt,none,0,none,Very rare,Crate,true,1,24056175759
+7076,Dorado,Blueprint,Forest Green,none,0,none,Import,Crate,true,1,24148885776
+5905,Auriga,Blueprint,Crimson,none,0,none,Black market,Crate,true,1,24217278345
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series180?,false,1,24217370197
+3249,XP Level 200,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series143?,false,1,24217370198
+2692,Jupiter,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2816?,true,1,24217370202
+5905,Auriga,Blueprint,none,none,0,none,Import,Crate,true,1,24229516115
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,24230670688
+7076,Dorado,Blueprint,Cobalt,none,0,none,Import,Crate,true,1,24231079542
+5905,Auriga,Blueprint,none,Goals,0,Scorer,Exotic,Crate,true,1,24232318644
+7076,Dorado,Blueprint,none,none,0,none,Import,Crate,true,1,24239346064
+5319,Nacho,Paint Finish,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2817?,true,1,24239346067
+5905,Auriga,Blueprint,Lime,EpicSaves,0,Guardian,Rare,Crate,true,1,24262597565
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,24268959325
+7076,Dorado,Blueprint,none,none,0,none,Rare,Crate,true,1,24300434747
+7582,Monarch,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3208?,false,1,24300892230
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,24302222341
+7643,Madness,Player Anthem,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3211?,false,1,24302631765
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,24312580530
+5765,Season 2,Blueprint,none,none,0,none,Rare,Crate,true,1,24312925298
+7583,Octane: Springtide,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3206?,false,1,24319499695
+7586,Flutterby,Animated Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3212?,false,1,24320235134
+7411,Teddy,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2818?,true,1,24320235612
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3209?,false,1,24320237075
+7584,Smiling Sapling,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3205?,false,1,24320237710
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,24320358237
+7173,Fornax,Blueprint,none,none,0,none,Black market,Crate,true,1,24364477848
+5765,Season 2,Blueprint,none,none,0,none,Exotic,Crate,true,1,24390052739
+7577,Monarch,Rocket Boost,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3210?,false,1,24390360629
+3170,Rosie,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3207?,false,1,24390361858
+7173,Fornax,Blueprint,Lime,none,0,none,Rare,Crate,true,1,24390539003
+7076,Dorado,Blueprint,none,Clears,0,Sweeper,Exotic,Crate,true,1,24391121586
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2782?,false,1,24391350803
+7580,Sapling,Antenna,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3204?,false,1,24391352262
+7173,Fornax,Blueprint,Grey,none,0,none,Rare,Crate,true,1,24391979839
+7173,Fornax,Blueprint,none,none,0,none,Very rare,Crate,true,1,24392513952
+7587,Florescence,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3213?,false,1,24394459126
+7173,Fornax,Blueprint,Crimson,none,0,none,Import,Crate,true,1,24394727532
+7173,Fornax,Blueprint,none,Juggles,0,Juggler,Very rare,Crate,true,1,24426421692
+7076,Dorado,Blueprint,none,none,0,none,Import,Crate,true,1,24427078739
+5765,Season 2,Blueprint,Orange,ShotsOnGoal,0,Striker,Very rare,Crate,true,1,24427735451
+7173,Fornax,Blueprint,Lime,none,0,none,Import,Crate,true,1,24443549086
+7173,Fornax,Blueprint,Black,none,0,none,Very rare,Crate,true,1,24469253436
+2941,Alicorn,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2820?,true,1,24506447817
+5905,Auriga,Blueprint,Black,none,0,none,Rare,Crate,true,1,24508140706
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,24517398372
+7076,Dorado,Blueprint,none,none,0,none,Very rare,Crate,true,1,24561398549
+7076,Dorado,Blueprint,none,none,0,none,Import,Crate,true,1,24562042042
+5178,HNY: Inverted,Wheels,none,none,0,none,Exotic,?INT?TAGame.ProductSeries.Series3527?,true,1,24581886549
+3250,XP Level 225,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series144?,false,1,24582224090
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2821?,false,1,24582224097
+5765,Season 2,Blueprint,Burnt Sienna,none,0,none,Rare,Crate,true,1,24582435363
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,24585334754
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2729?,false,1,24585740897
+7076,Dorado,Blueprint,none,none,0,none,Very rare,Crate,true,1,24596935377
+7076,Dorado,Blueprint,none,none,0,none,Rare,Crate,true,1,24606857091
+5765,Season 2,Blueprint,none,LongGoals,0,Sniper,Exotic,Crate,true,1,24607323507
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,24617951351
+5765,Season 2,Blueprint,none,none,0,none,Rare,Crate,true,1,24625453429
+7440,Roeler,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series2823?,true,1,24627214918
+5765,Season 2,Blueprint,Cobalt,none,0,none,Very rare,Crate,true,1,24627283472
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,24633817265
+7173,Fornax,Blueprint,none,none,0,none,Black market,Crate,true,1,24635758059
+5905,Auriga,Blueprint,Pink,none,0,none,Rare,Crate,true,1,24637192612
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,24637947284
+5905,Auriga,Blueprint,Black,none,0,none,Rare,Crate,true,1,24654718966
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,24667863377
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,24668800048
+5905,Auriga,Blueprint,Pink,none,0,none,Very rare,Crate,true,1,24678791856
+5765,Season 2,Blueprint,Black,none,0,none,Very rare,Crate,true,1,24684211127
+7076,Dorado,Blueprint,none,none,0,none,Rare,Crate,true,1,24708438031
+7173,Fornax,Blueprint,none,MVPs,0,Paragon,Very rare,Crate,true,1,24709495609
+7076,Dorado,Blueprint,none,none,0,none,Very rare,Crate,true,1,24710051666
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,24721494248
+5905,Auriga,Blueprint,Crimson,none,0,none,Exotic,Crate,true,1,24744858046
+7076,Dorado,Blueprint,none,Saves,0,Goalkeeper,Very rare,Crate,true,1,24886518178
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,24887932592
+7186,Happy Sunbeam: Sacred,Wheels,none,none,0,none,Exotic,Accolade VI,false,1,24948343049
+5747,Triangulate,Trail,none,none,0,none,Very rare,Accolade VI,false,1,24948343050
+7633,Select Favorites 2,Blueprint,Saffron,none,0,none,Very rare,Crate,true,1,24948801649
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3320?,false,1,24949003244
+7173,Fornax,Blueprint,none,none,0,none,Exotic,Crate,true,1,24949527026
+7076,Dorado,Blueprint,Lime,none,0,none,Exotic,Crate,true,1,24963737026
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,24964067229
+7633,Select Favorites 2,Blueprint,Saffron,none,0,none,Rare,Crate,true,1,24964534699
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,24976806293
+7076,Dorado,Blueprint,none,none,0,none,Import,Crate,true,1,24977238180
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,24978907102
+7633,Select Favorites 2,Blueprint,none,none,0,none,Black market,Crate,true,1,24980525298
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,24981119503
+3241,XP Level 250,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series145?,false,1,24991322554
+3373,Breakout: King Monke,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3321?,true,1,24991322557
+7633,Select Favorites 2,Blueprint,none,none,0,none,Import,Crate,true,1,24992372068
+7076,Dorado,Blueprint,none,LongGoals,0,Sniper,Very rare,Crate,true,1,24993931904
+7076,Dorado,Blueprint,none,Saves,0,Goalkeeper,Rare,Crate,true,1,24994750980
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,24995541962
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,25007221039
+7076,Dorado,Blueprint,none,none,0,none,Black market,Crate,true,1,25019113611
+7633,Select Favorites 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,25029913754
+7076,Dorado,Blueprint,none,MVPs,0,Paragon,Very rare,Crate,true,1,25030337932
+4623,Aquarium,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3322?,true,1,25030337936
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,25033961436
+7076,Dorado,Blueprint,none,none,0,none,Import,Crate,true,1,25040676505
+5905,Auriga,Blueprint,none,Assists,0,Playmaker,Import,Crate,true,1,25053326511
+7076,Dorado,Blueprint,none,none,0,none,Rare,Crate,true,1,25053536318
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,25068050461
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,25078534773
+7173,Fornax,Blueprint,none,ShotsOnGoal,0,Striker,Exotic,Crate,true,1,25084166331
+7633,Select Favorites 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,25086756238
+5905,Auriga,Blueprint,Crimson,Wins,0,Victor,Black market,Crate,true,1,25087710255
+7670,Fat Stacks,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3323?,true,1,25107514348
+7633,Select Favorites 2,Blueprint,none,BackwardsGoals,0,Show-off,Import,Crate,true,1,25107689783
+7173,Fornax,Blueprint,none,none,0,none,Import,Crate,true,1,25107893631
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,25123182424
+7173,Fornax,Blueprint,none,none,0,none,Import,Crate,true,1,25322693058
+4284,Fennec,Body,none,none,0,none,Import,Postgame,true,1,25322695021
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3222?,false,1,25322771770
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,25322948446
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,25329729904
+1702,Denim,Paint Finish,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3324?,true,1,25330398729
+7076,Dorado,Blueprint,none,Wins,0,Victor,Import,Crate,true,1,25341980240
+7633,Select Favorites 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,25342817768
+7173,Fornax,Blueprint,Forest Green,none,0,none,Black market,Crate,true,1,25346334401
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,25347339744
+5905,Auriga,Blueprint,Pink,none,0,none,Very rare,Crate,true,1,25348318813
+7633,Select Favorites 2,Blueprint,none,none,0,none,Import,Crate,true,1,25358328254
+7076,Dorado,Blueprint,none,none,0,none,Rare,Crate,true,1,25358540328
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,25359446726
+1754,Takumi: Sizzled,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3325?,true,1,25360409660
+69,Hydro,Rocket Boost,none,none,0,none,Uncommon,Postgame,true,1,25360420260
+7173,Fornax,Blueprint,Crimson,none,0,none,Exotic,Crate,true,1,25363099490
+7076,Dorado,Blueprint,none,Wins,0,Victor,Rare,Crate,true,1,25376603726
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,25390379053
+7173,Fornax,Blueprint,none,none,0,none,Very rare,Crate,true,1,25421924654
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3326?,false,1,25421924660
+3242,XP Level 275,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series146?,false,1,25424173557
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,25424568901
+7076,Dorado,Blueprint,none,none,0,none,Very rare,Crate,true,1,25425717758
+7687,Precious Metal,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3223?,false,1,25425880164
+7633,Select Favorites 2,Blueprint,none,TurtleGoals,0,Turtle,Rare,Crate,true,1,25439853590
+7076,Dorado,Blueprint,none,none,0,none,Very rare,Crate,true,1,25446284954
+7173,Fornax,Blueprint,none,TurtleGoals,0,Turtle,Very rare,Crate,true,1,25455247079
+7173,Fornax,Blueprint,none,none,0,none,Very rare,Crate,true,1,25456398887
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,25459591963
+7725,Excavator,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3327?,true,1,25460033640
+7076,Dorado,Blueprint,none,none,0,none,Black market,Crate,true,1,25552290543
+7633,Select Favorites 2,Blueprint,none,LongGoals,0,Sniper,Rare,Crate,true,1,25554820013
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,25555272215
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,25569175476
+5905,Auriga,Blueprint,none,none,0,none,Black market,Crate,true,1,25662682895
+7076,Dorado,Blueprint,none,none,0,none,Import,Crate,true,1,25732815238
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3328?,false,1,25732816461
+7076,Dorado,Blueprint,none,none,0,none,Rare,Crate,true,1,25771609538
+7633,Select Favorites 2,Blueprint,none,none,0,none,Import,Crate,true,1,25773084005
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,25796751866
+7633,Select Favorites 2,Blueprint,Grey,none,0,none,Very rare,Crate,true,1,25797105244
+7076,Dorado,Blueprint,none,none,0,none,Rare,Crate,true,1,25815701453
+7575,Barbershop,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3329?,true,1,26023582617
+7173,Fornax,Blueprint,Sky Blue,none,0,none,Black market,Crate,true,1,26057204899
+7581,Saul-Good,Wheels,none,none,0,none,Very rare,Accolade VII,false,1,26079540223
+7713,Blind,Player Anthem,none,none,0,none,Rare,Accolade VII,false,1,26079540225
+7590,Saul-Good: Obverse,Wheels,none,none,0,none,Exotic,Accolade VII,false,1,26079540229
+7681,Dunker,Rocket Boost,none,none,0,none,Import,Accolade VII,false,1,26079540235
+4854,D-Luxe,Topper,none,none,0,none,Uncommon,Accolade VII,false,1,26079540242
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3791?,false,1,26209306772
+7076,Dorado,Blueprint,none,none,0,none,Very rare,Crate,true,1,26224631978
+7076,Dorado,Blueprint,Burnt Sienna,none,0,none,Rare,Crate,true,1,26250905535
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,26251466022
+5905,Auriga,Blueprint,Black,BackwardsGoals,0,Show-off,Exotic,Crate,true,1,26275878635
+7633,Select Favorites 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,26285818028
+5905,Auriga,Blueprint,none,none,0,none,Import,Crate,true,1,26286169075
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,26415471548
+7914,Boomin' Bird,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3852?,true,1,26434221672
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,26784520328
+8320,Dominus: Billy The Puppet,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3872?,false,1,26785016494
+8020,Octane: Sam's Trick,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3864?,false,1,26844528472
+7076,Dorado,Blueprint,none,Saves,0,Goalkeeper,Very rare,Crate,true,1,26844738130
+8119,Leatherface's Chainsaw,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3867?,false,1,26884102309
+8301,Good Guys,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3869?,false,1,26884102508
+3466,Snazzy Skull,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3870?,false,1,26884102829
+7076,Dorado,Blueprint,none,none,0,none,Rare,Crate,true,1,26884904418
+7958,Honda Civic Type R,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3792?,false,1,26914389449
+3272,XP Level 300,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series147?,false,1,26972050738
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series181?,false,1,26972050739
+7633,Select Favorites 2,Blueprint,none,none,0,none,Import,Crate,true,1,26974941615
+7861,Windowed,Paint Finish,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3853?,true,1,27126829717
+7633,Select Favorites 2,Blueprint,none,none,0,none,Black market,Crate,true,1,27127992414
+7633,Select Favorites 2,Blueprint,none,none,0,none,Black market,Crate,true,1,27141293907
+1888,Bubbly,Animated Decal,none,none,0,none,Black market,Postgame,true,1,27142368102
+7633,Select Favorites 2,Blueprint,Titanium White,none,0,none,Very rare,Crate,true,1,27185183129
+5905,Auriga,Blueprint,none,EpicSaves,0,Guardian,Very rare,Crate,true,1,27272514190
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3854?,false,1,27272514217
+7633,Select Favorites 2,Blueprint,none,none,0,none,Black market,Crate,true,1,27287713295
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,27291126044
+7839,Chocolate Chip,Antenna,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3855?,true,1,27292541671
+5905,Auriga,Blueprint,none,LongGoals,0,Sniper,Black market,Crate,true,1,27311095860
+7076,Dorado,Blueprint,none,none,0,none,Very rare,Crate,true,1,27456430778
+7076,Dorado,Blueprint,none,none,0,none,Exotic,Crate,true,1,27500139645
+7173,Fornax,Blueprint,none,none,0,none,Very rare,Crate,true,1,27535473623
+7843,Cheeseburger,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series3856?,true,1,27535476437
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4211?,false,1,27597058531
+7076,Dorado,Blueprint,none,none,0,none,Rare,Crate,true,1,27670345763
+8528,Lofi Girl Winter,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4150?,false,1,27685699276
+8495,Snowflake,Antenna,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4151?,false,1,27685699977
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,27689793497
+8486,Igloo,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4149?,false,1,27690324121
+8491,Lofi Girl Cocoa,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4153?,false,1,27690471289
+8529,Lofi Girl,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4154?,false,1,27690472535
+8494,Lofi Girl,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4158?,false,1,27690473764
+7633,Select Favorites 2,Blueprint,none,Assists,0,Playmaker,Exotic,Crate,true,1,27710287691
+8525,Lofi Girl Headphones,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4152?,false,1,27710293520
+5905,Auriga,Blueprint,none,none,0,none,Exotic,Crate,true,1,27738626681
+7633,Select Favorites 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,27744080474
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,27767170343
+8439,Crispy Turkey,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4212?,true,1,27767170359
+8485,Dominus: Frosty Flake,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4155?,false,1,27774167917
+7633,Select Favorites 2,Blueprint,Sky Blue,none,0,none,Rare,Crate,true,1,27841450063
+1975,Gaiden,Wheels,Burnt Sienna,AerialGoals,0,Aviator,Very rare,Golden Gift '22,true,1,27841955544
+4462,Octane: Kana,Animated Decal,Purple,none,0,none,Very rare,Golden Gift '22,true,1,27841957144
+7633,Select Favorites 2,Blueprint,Saffron,none,0,none,Rare,Crate,true,1,27842078634
+7076,Dorado,Blueprint,Cobalt,none,0,none,Import,Crate,true,1,27881552492
+7173,Fornax,Blueprint,Lime,none,0,none,Rare,Crate,true,1,27939585108
+7862,Dominus: Razerwing,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4213?,true,1,27940533188
+8474,Octane: Lofi Girl,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4157?,false,1,27940542014
+7076,Dorado,Blueprint,none,MVPs,0,Paragon,Exotic,Crate,true,1,27940802913
+7633,Select Favorites 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,27955964758
+7633,Select Favorites 2,Blueprint,Lime,none,0,none,Very rare,Crate,true,1,28098916795
+7633,Select Favorites 2,Blueprint,Forest Green,none,0,none,Import,Crate,true,1,28121425765
+5905,Auriga,Blueprint,none,MVPs,0,Paragon,Rare,Crate,true,1,28125366333
+5905,Auriga,Blueprint,none,LongGoals,0,Sniper,Import,Crate,true,1,28133383309
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4214?,false,1,28154473315
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,28156338418
+7076,Dorado,Blueprint,none,none,0,none,Very rare,Crate,true,1,28330811835
+7076,Dorado,Blueprint,none,none,0,none,Rare,Crate,true,1,28381096614
+8386,Thermometer,Antenna,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4215?,true,1,29747652495
+7633,Select Favorites 2,Blueprint,none,none,0,none,Import,Crate,true,1,29822670768
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4611?,false,1,29958614783
+7633,Select Favorites 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,30048629190
+5905,Auriga,Blueprint,Burnt Sienna,none,0,none,Rare,Crate,true,1,30069203915
+7076,Dorado,Blueprint,none,MVPs,0,Paragon,Very rare,Crate,true,1,30088950711
+7173,Fornax,Blueprint,none,Saves,0,Goalkeeper,Rare,Crate,true,1,30121374986
+7633,Select Favorites 2,Blueprint,Forest Green,none,0,none,Rare,Crate,true,1,30138299225
+2913,Baby Turtle,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4612?,true,1,30138889090
+7076,Dorado,Blueprint,none,LongGoals,0,Sniper,Very rare,Crate,true,1,30159502728
+5905,Auriga,Blueprint,none,none,0,none,Import,Crate,true,1,30202183515
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,30203072295
+3275,XP Level 350,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series148?,false,1,30235341126
+7633,Select Favorites 2,Blueprint,Lime,Clears,0,Sweeper,Rare,Crate,true,1,30237522321
+5062,Backfire: Checkers,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4613?,true,1,30237522333
+7076,Dorado,Blueprint,none,none,0,none,Black market,Crate,true,1,30271492661
+7076,Dorado,Blueprint,Black,none,0,none,Very rare,Crate,true,1,30283033718
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,30290185387
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4614?,false,1,30322307672
+7173,Fornax,Blueprint,none,ShotsOnGoal,0,Striker,Rare,Crate,true,1,30322443621
+5905,Auriga,Blueprint,none,none,0,none,Exotic,Crate,true,1,30378015702
+5905,Auriga,Blueprint,none,TurtleGoals,0,Turtle,Very rare,Crate,true,1,30380237115
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,30394606254
+8808,Green Leaf,Antenna,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4615?,true,1,30396987910
+7633,Select Favorites 2,Blueprint,none,Juggles,0,Juggler,Import,Crate,true,1,30397418917
+5905,Auriga,Blueprint,none,none,0,none,Import,Crate,true,1,30409761480
+7633,Select Favorites 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,30414399440
+7173,Fornax,Blueprint,none,Wins,0,Victor,Import,Crate,true,1,30415277012
+7173,Fornax,Blueprint,none,none,0,none,Very rare,Crate,true,1,30418381717
+7633,Select Favorites 2,Blueprint,Pink,none,0,none,Rare,Crate,true,1,30419942862
+7173,Fornax,Blueprint,none,none,0,none,Import,Crate,true,1,30429500455
+5905,Auriga,Blueprint,none,AerialGoals,0,Aviator,Rare,Crate,true,1,30429733248
+7076,Dorado,Blueprint,none,EpicSaves,0,Guardian,Very rare,Crate,true,1,30459517520
+7076,Dorado,Blueprint,none,none,0,none,Rare,Crate,true,1,30491616638
+3572,Pixelated Shades,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4616?,true,1,30493976281
+7633,Select Favorites 2,Blueprint,none,MVPs,0,Paragon,Very rare,Crate,true,1,30525500115
+7173,Fornax,Blueprint,none,none,0,none,Very rare,Crate,true,1,30532144304
+7633,Select Favorites 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,30551203716
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4617?,false,1,30560599928
+7173,Fornax,Blueprint,none,none,0,none,Exotic,Crate,true,1,30567135743
+7633,Select Favorites 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,30817376621
+8556,Solar Shields,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4926?,false,1,30818288687
+7076,Dorado,Blueprint,none,none,0,none,Very rare,Crate,true,1,30819008067
+8794,Quick Jump,Antenna,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4925?,false,1,30819019482
+1711,Wicker,Paint Finish,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4931?,false,1,30819024194
+7633,Select Favorites 2,Blueprint,none,Assists,0,Playmaker,Rare,Crate,true,1,30848842349
+8910,Spacerocker,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4930?,false,1,30849048318
+8909,Buffstuff,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4932?,false,1,30849049295
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,30850622684
+7076,Dorado,Blueprint,none,Saves,0,Goalkeeper,Import,Crate,true,1,30896556404
+9031,Redline Rush,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4927?,false,1,30897006722
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,30922004081
+5905,Auriga,Blueprint,Black,Assists,0,Playmaker,Very rare,Crate,true,1,31013954563
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series1027?,false,1,31013981986
+8851,STAR WARS R2-D2 (Twin Suns),Player Banner,none,none,0,none,Very rare,?INT?TAGame.ProductSeries.Series1027?,false,1,31013981988
+4993,Fish Fly,Antenna,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4618?,true,1,31028201634
+7173,Fornax,Blueprint,none,none,0,none,Very rare,Crate,true,1,31030669610
+5905,Auriga,Blueprint,none,none,0,none,Exotic,Crate,true,1,31140872876
+7173,Fornax,Blueprint,none,ShotsOnGoal,0,Striker,Exotic,Crate,true,1,31211859925
+2882,Manta Ray,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4619?,true,1,31237928073
+7173,Fornax,Blueprint,Burnt Sienna,none,0,none,Rare,Crate,true,1,31238144041
+7076,Dorado,Blueprint,Burnt Sienna,none,0,none,Very rare,Crate,true,1,31410921593
+4890,Good Fortune,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4620?,true,1,31411122379
+386,Cristiano,Wheels,none,none,0,none,Very rare,Postgame,true,1,31411385591
+2621,Triton: Glyphtrix,Decal,none,none,0,none,Uncommon,Postgame,true,1,31411420766
+2580,Salty,Player Banner,none,none,0,none,Rare,Postgame,true,1,31411461366
+1561,Octane: Kilowatt,Animated Decal,none,none,0,none,Very rare,Postgame,true,1,31411497043
+1060,Octane: Dot Matrix,Animated Decal,none,none,0,none,Very rare,Postgame,true,1,31411529660
+4240,NeOctane,Player Banner,none,none,0,none,Rare,Postgame,true,1,31411539940
+3852,Octane: Gale-Fire,Decal,none,none,0,none,Rare,Postgame,true,1,31411548303
+266,Brushed Metal,Paint Finish,none,none,0,none,Rare,Postgame,true,1,31411557073
+2059,Clockwork,Wheels,none,none,0,none,Exotic,Golden Toolkit,true,1,31411579375
+4173,NeYoYo,Wheels,none,ShotsOnGoal,0,Striker,Exotic,Golden Gift '22,true,1,31411615237
+2067,Metallic Pearl (Smooth),Paint Finish,none,none,0,none,Very rare,Postgame,true,1,31411662270
+29,Hotshot,Body,Burnt Sienna,none,0,none,Import,Postgame,true,1,31411732415
+7076,Dorado,Blueprint,none,none,0,none,Import,Crate,true,1,31435029670
+7076,Dorado,Blueprint,none,BicycleGoals,0,Acrobat,Very rare,Crate,true,1,31435959937
+7633,Select Favorites 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,31476731660
+7633,Select Favorites 2,Blueprint,none,Saves,0,Goalkeeper,Very rare,Crate,true,1,31513565904
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,31530335866
+7173,Fornax,Blueprint,none,none,0,none,Very rare,Crate,true,1,31531172786
+7633,Select Favorites 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,31532035200
+7076,Dorado,Blueprint,none,none,0,none,Import,Crate,true,1,31545400291
+7173,Fornax,Blueprint,Black,none,0,none,Rare,Crate,true,1,31559162683
+7173,Fornax,Blueprint,none,none,0,none,Very rare,Crate,true,1,31563404812
+3278,XP Level 400,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series149?,false,1,31574241331
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series182?,false,1,31574241333
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,31576020252
+7173,Fornax,Blueprint,none,none,0,none,Very rare,Crate,true,1,31579065324
+7633,Select Favorites 2,Blueprint,none,none,0,none,Very rare,Crate,true,1,31800987110
+7633,Select Favorites 2,Blueprint,none,none,0,none,Rare,Crate,true,1,31947674307
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4977?,false,1,31947907929
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,31957197668
+7173,Fornax,Blueprint,none,none,0,none,Black market,Crate,true,1,32002418520
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,32027221932
+9239,8th Birthday,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4943?,false,1,32027241086
+9141,Waned Flame,Rocket Boost,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4946?,false,1,32027242920
+9118,Maracas,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4978?,true,1,32047160358
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,32047551217
+9162,Waned Flame,Trail,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4947?,false,1,32048159131
+9223,Hemi Birthday,Player Anthem,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4945?,false,1,32048160026
+9188,8th Birthday Crown,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4944?,false,1,32048804979
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,32066263335
+7076,Dorado,Blueprint,Cobalt,none,0,none,Import,Crate,true,1,32087180889
+7633,Select Favorites 2,Blueprint,none,none,0,none,Import,Crate,true,1,32482751843
+3450,Paladin: Geared Up,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4979?,true,1,32485657600
+7173,Fornax,Blueprint,none,BicycleGoals,0,Acrobat,Rare,Crate,true,1,32485916979
+5905,Auriga,Blueprint,Crimson,none,0,none,Very rare,Crate,true,1,32641705003
+9384,RLCS Crystalline,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series5330?,false,1,32642518140
+9359,10-Senz,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series5337?,false,1,32642519432
+7633,Select Favorites 2,Blueprint,none,ShotsOnGoal,0,Striker,Rare,Crate,true,1,32643989680
+9383,RLCS Crystalline,Avatar Border,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series5331?,false,1,32644574416
+3036,Title,Player Title,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series5333?,false,1,32644575655
+9399,EZ Sweep,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series5335?,false,1,32644576510
+2809,Siiick Reads,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series5334?,false,1,32644577305
+9333,Pro-Tek,Wheels,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series5338?,false,1,32644578329
+9368,Let's Goooooo!,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series5329?,false,1,32689305470
+9177,Octane: Shmeedian,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series5336?,false,1,32689306106
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,32748760269
+9361,Rocket League World Championship Trophy,Topper,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series5332?,false,1,32749152836
+9114,Egg Beast,Player Banner,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4980?,true,1,32752558210
+7076,Dorado,Blueprint,none,none,0,none,Exotic,Crate,true,1,32753413089
+1633,Breakout: Heiwa,Decal,none,none,0,none,Rare,Postgame,true,1,32754594724
+494,Pixelated Shades,Topper,none,none,0,none,Rare,Postgame,true,1,32754600186
+387,Burnout,Rocket Boost,none,none,0,none,Rare,Postgame,true,1,32754622664
+2527,Nice Slice,Player Banner,none,none,0,none,Rare,Postgame,true,1,32754636041
+272,Carbon Fiber,Paint Finish,none,none,0,none,Rare,Postgame,true,1,32754647557
+3426,Diestro,Body,none,none,0,none,Import,Postgame,true,1,32754651919
+4369,Fennec: Edge Burst,Decal,Saffron,none,0,none,Rare,Golden Trophy '23,true,1,32754682091
+1580,Zomba,Wheels,none,none,0,none,Exotic,Postgame,true,1,32754766594
+6220,Spring Web,Player Banner,none,none,0,none,Rare,Accolade IV,false,1,32754777713
+7222,Starshard,Wheels,none,none,0,none,Very rare,Accolade VI,false,1,32754786293
+7219,Breakout: 10dril,Animated Decal,Lime,Clears,0,Sweeper,Import,Accolade VI,false,1,32754796346
+7076,Dorado,Blueprint,none,none,0,none,Black market,Crate,true,1,32754806098
+5905,Auriga,Blueprint,none,none,0,none,Rare,Crate,true,1,32754994288
+7076,Dorado,Blueprint,Black,none,0,none,Very rare,Crate,true,1,32771010333
+9329,Golden Trophy '23,Crate,none,none,0,none,Rare,?INT?TAGame.ProductSeries.Series5339?,true,2,32771715069
+7173,Fornax,Blueprint,none,none,0,none,Rare,Crate,true,1,32773169306
+5302,Uncommon Drop,Reward Item,none,none,0,none,Uncommon,?INT?TAGame.ProductSeries.Series1118?,false,2,32773580570
+5905,Auriga,Blueprint,none,none,0,none,Very rare,Crate,true,1,32795827208
+2576,Venom: King XII,Decal,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4981?,true,1,32796087938
+5301,Rare Drop,Reward Item,none,none,0,none,Rare,?INT?TAGame.ProductSeries.Series1002?,false,3,32796090680
+7173,Fornax,Blueprint,none,none,0,none,Import,Crate,true,1,32799308203
+7076,Dorado,Blueprint,Orange,none,0,none,Rare,Crate,true,1,32813591685
+8895,Fishing Rod,Antenna,none,none,0,none,Limited,?INT?TAGame.ProductSeries.Series4982?,true,1,32836655582
+7173,Fornax,Blueprint,none,Clears,0,Sweeper,Import,Crate,true,1,32838690665
+7173,Fornax,Blueprint,none,Wins,0,Victor,Very rare,Crate,true,1,32841818089
+5864,S2 - Bronze,Rocket Boost,none,none,0,none,Limited,Season reward,false,1,16941141219
+6931,S4 - Bronze,Wheels,none,none,0,none,Limited,Season reward,false,1,21628168930
+6932,S4 - Silver,Wheels,none,none,0,none,Limited,Season reward,false,1,21629301841
+6933,S4 - Gold,Wheels,none,none,0,none,Limited,Season reward,false,1,21629304338
+7429,S5 - Bronze,Goal Explosion,none,none,0,none,Limited,Season reward,false,1,23572846093
+7430,S5 - Silver,Goal Explosion,none,none,0,none,Limited,Season reward,false,1,23572854252
+7431,S5 - Gold,Goal Explosion,none,none,0,none,Limited,Season reward,false,1,23572857412
+5423,S6 - Bronze,Animated Decal,none,none,0,none,Limited,Season reward,false,1,24879957030
+5424,S6 - Silver,Animated Decal,none,none,0,none,Limited,Season reward,false,1,24879959415
+5425,S6 - Gold,Animated Decal,none,none,0,none,Limited,Season reward,false,1,24879961692
+5426,S6 - Platinum,Animated Decal,none,none,0,none,Limited,Season reward,false,1,24879963272
+5427,S6 - Diamond,Animated Decal,none,none,0,none,Limited,Season reward,false,1,24879964966
+7905,S7 - Bronze,Rocket Boost,none,none,0,none,Limited,Season reward,false,1,26069987523
+7906,S7 - Silver,Rocket Boost,none,none,0,none,Limited,Season reward,false,1,26069992544
+7907,S7 - Gold,Rocket Boost,none,none,0,none,Limited,Season reward,false,1,26069993746
+7908,S7 - Platinum,Rocket Boost,none,none,0,none,Limited,Season reward,false,1,26069994916
+7909,S7 - Diamond,Rocket Boost,none,none,0,none,Limited,Season reward,false,1,26069996023
+8193,Argentina,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455742921
+8194,Austria,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455742924
+8195,Belgium,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455742927
+8283,Brazil,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455742928
+8196,Cameroon,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754329
+8284,Canada,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754332
+8197,China,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754334
+8198,Costa Rica,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754336
+8286,Croatia,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754338
+8199,Czech Republic,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754339
+8200,Denmark,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754340
+8201,Ecuador,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754342
+8287,England,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754343
+8202,Finland,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754344
+8288,France,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754346
+8203,Germany,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754349
+8204,Ghana,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754350
+8205,Iran,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754351
+8206,Italy,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754353
+8207,Japan,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754354
+8208,Mexico,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754355
+8209,Morocco,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754356
+8290,Netherlands,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754357
+8291,New Zealand,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754358
+8292,Nigeria,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754359
+8210,Norway,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754360
+8293,Poland,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754361
+8294,Portugal,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754362
+8295,Qatar,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754363
+8296,Saudi Arabia,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754365
+8211,Senegal,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754366
+8212,Serbia,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754368
+8297,South Korea,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754369
+8213,Spain,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754370
+8214,Sweden,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754371
+8215,Switzerland,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754372
+8216,Tunisia,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754373
+8388,Turkey,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754375
+8317,Ukraine,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754376
+8217,Uruguay,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754378
+8298,USA,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754379
+8218,Wales,Player Banner,none,none,0,none,Limited,Season reward,false,1,26455754380
+8506,S8 - Bronze,Player Banner,none,none,0,none,Limited,Season reward,false,1,27523846962
+8512,S8 - Silver,Player Banner,none,none,0,none,Limited,Season reward,false,1,27523849424
+8509,S8 - Gold,Player Banner,none,none,0,none,Limited,Season reward,false,1,27523852102
+8511,S8 - Platinum,Player Banner,none,none,0,none,Limited,Season reward,false,1,27523854634
+8857,S9 - Bronze,Wheels,none,none,0,none,Limited,Season reward,false,1,29828809457
+8858,S9 - Silver,Wheels,none,none,0,none,Limited,Season reward,false,1,29828811531
+8859,S9 - Gold,Wheels,none,none,0,none,Limited,Season reward,false,1,29828813315
+8860,S9 - Platinum,Wheels,none,none,0,none,Limited,Season reward,false,1,29828814773
+9091,S10 - Bronze,Trail,none,none,0,none,Limited,Season reward,false,1,31595243047
+9130,S10 - Bronze,Topper,none,none,0,none,Limited,Season reward,false,1,31595253774
+9092,S10 - Silver,Trail,none,none,0,none,Limited,Season reward,false,1,31595255729
+9093,S10 - Gold,Trail,none,none,0,none,Limited,Season reward,false,1,31595258087
+9094,S10 - Platinum,Trail,none,none,0,none,Limited,Season reward,false,1,31595259990
+9095,S10 - Diamond,Trail,none,none,0,none,Limited,Season reward,false,1,31595262558
+9125,S10 - Silver,Topper,none,none,0,none,Limited,Season reward,false,1,31595273882
+9126,S10 - Gold,Topper,none,none,0,none,Limited,Season reward,false,1,31595275109
+9127,S10 - Platinum,Topper,none,none,0,none,Limited,Season reward,false,1,31595276797
+9128,S10 - Diamond,Topper,none,none,0,none,Limited,Season reward,false,1,31595278366

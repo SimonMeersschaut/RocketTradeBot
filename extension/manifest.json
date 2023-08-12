@@ -1,0 +1,11 @@
+{
+  "name":"Python Controller",
+  "manifest_version":3,
+  "version":"0.1.0",
+  "content_scripts": [
+    {
+      "matches":["https://rocket-league.com/*"],
+      "js":["contentScript.js"]
+    }
+  ]
+}
